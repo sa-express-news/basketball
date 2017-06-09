@@ -5,6 +5,7 @@
     position: relative;
     left: 50%;
     right: 50%;
+    margin-bottom: 8vh;
     margin-left: -50vw;
     margin-right: -50vw;
 }
