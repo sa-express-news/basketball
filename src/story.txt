@@ -1,36 +1,78 @@
-{meta}
+{top.meta}
 headline: Can a New Generation in the Banlieues Change French Politics?
 subhead: A Muslim city councilor in a stagnant Paris suburb makes the case for modernizing the nation’s Republican values.
 byline: Elisabeth Zerofsky
 date: June 5, 2017
 
+{top.image}
+source: flag.jpeg
+caption: thisis a photo
+cutline: Kia Farhang/SAEN
+
 [+sections.1]
 
-La Courneuve’s mayor for nearly two decades was Gilles Poux, a stalwart of the French Communist Party, the labor-oriented segment of the French left that once enjoyed broad popularity but whose membership had declined everywhere except in the Paris 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sollicitudin, arcu eget interdum consequat, arcu nisi lobortis est, suscipit consectetur mauris ex et elit. Integer vehicula tortor nunc, vel ultricies lectus facilisis et. Praesent sed massa erat. Integer eleifend posuere libero, condimentum ultrices augue hendrerit nec. Nulla luctus, tortor in interdum mattis, lacus erat auctor ante, quis eleifend leo dolor in ipsum. Curabitur at posuere lacus. Nulla condimentum tincidunt magna, vitae iaculis tellus mattis nec. Morbi pulvinar nisi quis placerat vehicula. Pellentesque eu bibendum urna, sit amet volutpat ante. Aenean ut sem a metus viverra sollicitudin at nec nisi. Etiam ornare, tortor id gravida lacinia, nibh elit tristique arcu, eu feugiat nisl purus sit amet metus. In tellus felis, tristique sed sagittis eu, semper vitae libero.
 
-He had plenty of ideas. Architecture was a passion, and he had studied urban planning to understand how new buildings might be designed to resist the kind of rapid degradation that plagued the town’s infrastructure. He even helped start a program for architecture students in Paris, who could propose ideas for La Courneuve as their final thesis. The results were sometimes outlandish — one student drafted a blueprint for a perfume museum — but Bouteghmès still found them useful. “It makes you dream a bit,” he said, “which changes what you can do.”
+Quisque volutpat facilisis tincidunt. Duis ac fermentum purus, ac vehicula lacus. Proin est dui, mollis vel ligula nec, porttitor iaculis eros. Nam nisi libero, tincidunt in eleifend sit amet, gravida a magna. Vestibulum porttitor tincidunt nulla finibus posuere. Phasellus dapibus, nisi et ullamcorper tempus, ex justo vulputate felis, sit amet elementum est mauris vel tellus. Nunc facilisis justo mauris, non rutrum orci scelerisque finibus. Aliquam ac scelerisque mi. Etiam mollis augue ante, eget congue augue eleifend ut.
 
-The mayor encouraged Bouteghmès and his friends to run on his ticket; he needed to join forces with young men of their background to win a majority in a town that has more than 100 nationalities. Once elected, though, they felt constrained by a decades-old political machine. In the fall of 2015, Poux shut down the Samaritain Roma camp in La Courneuve that was home to 300 people; he stated that what was needed was a national, not a local, solution. For months, Bouteghmès had helped organize protests to keep it open, and as it became clear the Roma would not prevail, he worked with local nongovernment organizations to help find temporary squats. He felt that he could no longer share a political identity with the mayor, and he and three others split off to form the Élan Populaire Courneuvien, on the theory that as a bloc they could wield some power. Eventually, one of them might even run against the mayor.
+Cras scelerisque mauris in dignissim euismod. Aenean velit ipsum, vulputate ac tellus et, suscipit lobortis leo. Cras a quam sit amet urna placerat suscipit ac eget nunc. In enim mi, porta et enim vitae, suscipit tristique libero. Nam at suscipit quam. Aenean consectetur lobortis varius. Duis in pulvinar enim. Sed sagittis varius imperdiet. Ut sodales turpis non felis aliquet vehicula. Duis convallis odio sit amet nibh convallis mattis. Mauris erat neque, pharetra eget nunc nec, luctus vestibulum nisi. Nullam vestibulum lacus ligula, sit amet pharetra nibh tempus non. Donec accumsan odio eget ex molestie sollicitudin.
 
-“In the beginning, in my head, identity was important,” Bouteghmès told me. I met him at an Illy cafe behind the Opéra Garnier in late January, when all the surfaces of the city are darkened from incessant rain. He is tall and unfailingly well put together; that day he had on a navy blue shawl-neck sweater over a pressed white button-down shirt, dark, slim-fitted wool pants and large glasses with clear-plastic frames that were slightly out of tune with his otherwise sober demeanor. We talked for nearly an hour and a half before he smiled for the first time. “In reality, identity doesn’t mean anything,” he said. What had been, initially, an American-style venture in identity politics led him back to the French Republican ideals of universalism. “You have a group of people who all look alike, they criticize the old white guys who keep everything to themselves. But then we do the same thing. The Arabs complain about racism, but they’re racist toward the Roma. Identity is a trap.”
+Vivamus eleifend mattis augue, sed fringilla odio congue eget. Aliquam ac nunc non lectus gravida congue tristique eu enim. Vestibulum mattis et nulla in congue. Aenean pharetra tellus in arcu varius sodales. Sed eleifend commodo hendrerit. Morbi eu velit quam. Aliquam erat volutpat. Aliquam erat volutpat. In eleifend quam nec iaculis faucibus. Donec sodales ac sem malesuada lobortis. Maecenas sagittis vitae dui quis luctus. Duis porta tincidunt libero, eu viverra arcu vestibulum sit amet. Morbi vitae augue est.
 
-photo: stock.jpeg
+{.photo}
+source: pier.jpeg
 caption: this is a photo
 cutline: Kia Farhang
+type: full
+{}
 []
 
 [+sections.2]
 
-Bouteghmès’s father was born near Constantine, in the Algerian east, in 1950, when the country was still a part of France. He left at 23 for France and met Bouteghmès’s mother, a Tunisian, while they were working at a hotel near the Gare de l’Est in Paris. He went back to Algeria, as he always planned, but after a few months he returned to France to be with Bouteghmès’s mother. They bought an apartment in La Courneuve, when suburban design was still confidently utopian. Bouteghmès’s father eventually became a site manager for a construction company and a union representative. “He paid for it dearly,” Bouteghmès told me. “In front of him were the bosses attacking him, next to him people who deserted him, betrayed him.” He would negotiate a pay raise, and they would increase everyone’s salary except for his. “My father would always say to me, ‘Don’t do what I did.’ And now I’m living the same thing he lived. Exactly the same.”
+Duis sagittis odio quis commodo finibus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sed dolor viverra, rhoncus sem non, luctus lectus. Fusce at maximus lorem. Morbi at ipsum justo. Vivamus id bibendum nunc, vel gravida ligula. Cras sit amet tincidunt erat. Aenean ut suscipit magna. Suspendisse quis orci tempor, aliquet nunc in, vestibulum ex. Aliquam sit amet luctus nisl, ac ultrices erat. Praesent posuere sollicitudin massa. Duis nibh purus, facilisis malesuada odio in, aliquet pulvinar eros.
 
-The problems facing the suburbs, Bouteghmès asserted, could not be addressed without taking on the larger national malaise. “For me, today, being named Mehdi Bouteghmès, my father was born in a French colony, my mother was born in a French protectorate, if I want to question the political methods, practices, Republican institutions, people will say I’m an Islamist,” Bouteghmès told me. “It’s not normal.” At 18 he joined the Young Muslims of France, a community youth group, and during a phase in college read extensively in Islamic philosophy and theology. Islam was part of his identity, but now, 10 years later, he was certain this would be used against him if he decided to enter national politics. “They’ll attack me, twist positions I may have taken before, activities I might have been involved in in the past,” he said.
+Maecenas vehicula venenatis lacus id egestas. Suspendisse laoreet erat in urna suscipit dignissim. Cras lacus enim, venenatis eu odio tincidunt, hendrerit suscipit massa. Proin quis dui molestie, volutpat leo a, congue dolor. Nunc eu neque quis magna scelerisque ultricies. Fusce at tempus eros, ut posuere lorem. Proin tincidunt risus felis, eget consequat ligula volutpat ut. Suspendisse potenti. Fusce fermentum elit sit amet nulla fermentum, sit amet fringilla nisl aliquam. Sed interdum porta finibus. Vestibulum auctor odio vel ex facilisis vehicula. Morbi tristique mi quis ipsum vehicula pulvinar. Integer quis augue blandit, molestie nisi vel, interdum tellus. Duis condimentum in sem sit amet interdum.
 
-Bouteghmès attended high school in the neighboring suburb Aubervilliers, at the Lycée Henri Wallon, where, in 2003, during his first semester, the Affaire Alma and Lila Lévy, which led to the 2004 law banning religious symbols, unfolded. “In my opinion, that was the breaking point of the Republic,” he said. That fall, two sisters, daughters of an Algerian mother who was baptized Catholic and an atheist Jewish father, refused to remove the head scarves they had recently begun to wear. The school suspended them for “ostentatious” attire that was “disturbing” to the public order. “We had debates about it in the schoolyard,” Bouteghmès said. “But with the teachers, there was an incredible racism.” He went on: “You crack. It becomes us against them, against those who want nothing of us — everyone.” His parents weren’t particularly religious, but social dynamics led him, for a time, to delve into Islam. “I would go around talking about values: ‘No, that’s no good. No, this is what Islam is.’ But people allowed me to make my mistakes, let me evolve, realize my errors. I didn’t know who I was yet. Today, if you’re an 18-year-old kid, you talk about Islam like that, you go straight to prison.”
+In convallis ipsum eget sapien luctus molestie. Maecenas mollis diam non sapien aliquam bibendum. Integer ultrices consequat bibendum. In molestie dictum ligula, at tristique lorem luctus id. Duis vel dolor a nunc malesuada elementum. Sed eget nulla id magna hendrerit euismod. Fusce imperdiet nibh non ligula tristique, vitae varius ante lobortis. Praesent malesuada pulvinar felis, vel laoreet lorem venenatis sed. Aliquam ac lorem ut nisi ultrices gravida. Duis consequat quam nec porta rutrum.
 
-Reading Kant and Machiavelli helped Bouteghmès look beyond what could be a closed circuit in the 
+Aliquam vel nibh nec enim condimentum interdum. Aliquam dui lorem, elementum sed dolor ac, maximus sollicitudin felis. Maecenas efficitur convallis felis, nec efficitur neque ultricies sed. Sed aliquam scelerisque erat, et euismod odio interdum vitae. Phasellus ex metus, ultricies in dui ac, aliquet placerat tellus. Nam fringilla suscipit odio vel tincidunt. Ut ac vulputate metus. Donec eget placerat enim, vitae aliquam nisi. Aenean rutrum diam enim, non rhoncus massa accumsan non. Etiam dui risus, interdum vitae velit non, porta placerat augue. Donec eget ligula ac urna commodo tempor vitae quis nunc. Nulla fermentum tempor rutrum. Ut gravida elit eget est mattis facilisis id quis mi.
 
+Cras orci ipsum, tristique nec fermentum eu, posuere a diam. Maecenas maximus massa eu elementum finibus. Donec eget venenatis quam, sed convallis lorem. Nunc malesuada tortor sed blandit lacinia. Etiam nec nulla vel purus rutrum malesuada ut quis sapien. Donec sollicitudin commodo lacus. Vestibulum nec congue elit.
 
-photo: stock.jpeg
+Curabitur viverra eros imperdiet orci maximus fermentum. Sed sodales ligula vitae ligula venenatis hendrerit vel id massa. Quisque sed felis non risus eleifend imperdiet et id lacus. Fusce eu lorem ut nunc ultrices blandit. Donec odio mauris, rhoncus vitae quam in, feugiat rutrum sem. Mauris in tortor eget magna egestas laoreet sit amet sed ex. Nullam pharetra dui a porta tincidunt. Pellentesque et odio id erat pellentesque tempor eu id massa. Etiam eget bibendum massa. In ultrices velit id mauris suscipit pretium.
+
+{.photo}
+source: pigeons.jpeg
 caption: this is a photo
 cutline: Kia Farhang
+type: full
+{}
+[]
+
+[+sections.3]
+
+Sed vitae fringilla nunc, non dictum quam. Cras ornare vestibulum velit sit amet aliquam. Praesent mauris libero, pretium quis sodales sed, cursus ac magna. In ullamcorper dolor ac lectus sodales faucibus. Sed sed augue sit amet velit vestibulum tempus id nec ipsum. Aliquam a sagittis mauris. Cras interdum, tortor quis scelerisque elementum, odio ipsum semper ex, vitae tincidunt purus lectus sit amet sapien. Fusce sagittis maximus metus, tristique commodo ligula sollicitudin nec. Donec quis quam et sem maximus cursus eget a odio. Sed at augue nec arcu hendrerit varius. In interdum est eu mi finibus, non ullamcorper felis pretium. Quisque feugiat orci in porta mollis.
+
+Nam in arcu nec sapien commodo tincidunt. Phasellus lobortis nisi id turpis vestibulum porttitor. Ut iaculis, purus non hendrerit iaculis, erat ante lobortis nulla, in cursus purus ligula in nisl. Curabitur fringilla elit ac magna iaculis ullamcorper. Cras dolor nunc, ultrices at fermentum eget, volutpat non enim. Vestibulum massa orci, suscipit vitae tortor vitae, condimentum bibendum velit. Donec ultricies tellus vitae enim eleifend fringilla. Vestibulum feugiat quam ut lectus auctor auctor. Cras in bibendum dui. Maecenas in dignissim nulla, id pulvinar ipsum. Duis dapibus, quam sit amet mattis ultricies, purus risus varius massa, vitae mollis orci turpis at nulla. Proin in malesuada diam. Duis laoreet urna id arcu pulvinar, ac consequat odio sodales. Donec sit amet feugiat risus, sit amet accumsan odio. Fusce vel dolor eget leo elementum gravida a a leo. Phasellus erat arcu, maximus quis neque sit amet, condimentum viverra nunc.
+
+Aenean ornare felis in viverra vulputate. Integer imperdiet neque id aliquet cursus. Curabitur suscipit, purus quis lacinia dapibus, mi purus pulvinar ante, id venenatis urna odio tincidunt lorem. Praesent faucibus risus eget fringilla dapibus. Donec nibh neque, tincidunt quis orci quis, aliquet bibendum quam. Praesent erat mauris, hendrerit quis convallis vel, accumsan ut felis. Nunc nec lectus eget risus imperdiet malesuada. Sed feugiat erat vel mollis semper. Aliquam erat volutpat. Praesent volutpat ullamcorper justo, sit amet pharetra nulla volutpat ut.
+
+Sed sit amet purus eu velit placerat suscipit ac cursus leo. Suspendisse non tincidunt magna. Sed mauris dolor, consequat molestie dui in, lacinia vulputate mauris. Fusce bibendum dui et lectus vehicula consequat. In hac habitasse platea dictumst. Mauris vulputate id metus eget efficitur. Nunc ac posuere quam. Fusce vulputate egestas iaculis. Nulla in eros consequat, dapibus ipsum eu, ultricies sapien.
+
+Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras a leo ultricies, sodales nunc at, egestas lacus. Aenean placerat turpis egestas fringilla cursus. In dignissim molestie massa, ut semper turpis. Donec tincidunt leo dolor. Fusce varius neque tristique, maximus augue eget, suscipit nibh. Proin sed elit eros. Proin feugiat purus justo, vel maximus eros consectetur eu. Sed mattis nibh sagittis, condimentum quam vel, blandit arcu.
+
+{.photo}
+source: books.jpeg
+caption: this is a photo
+cutline: Kia Farhang
+type: full
+{}
+[]
+
+[+sections.4]
+
+Sed vitae fringilla nunc, non dictum quam. Cras ornare vestibulum velit sit amet aliquam. Praesent mauris libero, pretium quis sodales sed, cursus ac magna. In ullamcorper dolor ac lectus sodales faucibus. Sed sed augue sit amet velit vestibulum tempus id nec ipsum. Aliquam a sagittis mauris. Cras interdum, tortor quis scelerisque elementum, odio ipsum semper ex, vitae tincidunt purus lectus sit amet sapien. Fusce sagittis maximus metus, tristique commodo ligula sollicitudin nec. Donec quis quam et sem maximus cursus eget a odio. Sed at augue nec arcu hendrerit varius. In interdum est eu mi finibus, non ullamcorper felis pretium. Quisque feugiat orci in porta mollis.
+
+Nam in arcu nec sapien commodo tincidunt. Phasellus lobortis nisi id turpis vestibulum porttitor. Ut iaculis, purus non hendrerit iaculis, erat ante lobortis nulla, in cursus purus ligula in nisl. Curabitur fringilla elit ac magna iaculis ullamcorper. Cras dolor nunc, ultrices at fermentum eget, volutpat non enim. Vestibulum massa orci, suscipit vitae tortor vitae, condimentum bibendum velit. Donec ultricies tellus vitae enim eleifend fringilla. Vestibulum feugiat quam ut lectus auctor auctor. Cras in bibendum dui. Maecenas in dignissim nulla, id pulvinar ipsum. Duis dapibus, quam sit amet mattis ultricies, purus risus varius massa, vitae mollis orci turpis at nulla. Proin in malesuada diam. Duis laoreet urna id arcu pulvinar, ac consequat odio sodales. Donec sit amet feugiat risus, sit amet accumsan odio. Fusce vel dolor eget leo elementum gravida a a leo. Phasellus erat arcu, maximus quis neque sit amet, condimentum viverra nunc.
+
 []

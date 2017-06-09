@@ -11,7 +11,7 @@ class PhotoCaption extends Component {
 
 	render(){
 		return(
-			<p className='photoCaption'>{this.props.text}</p> 
+			<p className='PhotoCaption'>{this.props.text}</p> 
 		)
 	}
 }

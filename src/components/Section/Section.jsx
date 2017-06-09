@@ -3,8 +3,8 @@
 import React, {Component} from 'react';
 
 import Paragraph from '../Paragraph/Paragraph';
-import PhotoContainer from '../PhotoContainer/PhotoContainer';
-import FullWidthMobilePhoto from '../FullWidthMobilePhoto/FullWidthMobilePhoto';
+import FullPhotoContainer from '../FullPhotoContainer/FullPhotoContainer';
+import FullPhoto from '../FullPhoto/FullPhoto';
 
 
 class Section extends Component {
@@ -18,23 +18,30 @@ class Section extends Component {
 
 	render(){
 		const data = this.props.data;
+
 		const components = data.map((object, index) =>{
 			switch (object.type){
 				case 'text':
 					return <Paragraph text={object.value} key={index} />
 				case 'photo':
-					const photoPath = this.loadPhoto(object.value.source);
-					const photo = <FullWidthMobilePhoto src={photoPath} alt='' />
-					return <PhotoContainer caption={object.value.caption} cutline={object.value.cutline} key={index}>
-						{photo}
-					</PhotoContainer>
+					const photo = object.value;
+					const photoPath = this.loadPhoto(photo.source);
+
+					switch (photo.type){
+						case 'full':
+							const photoComponent = <FullPhoto src={photoPath} alt={photo.caption}/>;
+							return <FullPhotoContainer caption={photo.caption} cutline={photo.cutline} key={index} >{photoComponent}</FullPhotoContainer>
+
+						default:
+							return null
+					};
 				default:
 					return null
-			}
+			};
 		});
 
 		return(
-			<div className='section'>
+			<div className='Section'>
 				{components}
 			</div>
 		)

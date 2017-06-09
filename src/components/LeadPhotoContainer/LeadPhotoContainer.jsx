@@ -3,8 +3,9 @@
 import React, {Component} from 'react';
 
 import LeadPhoto from '../LeadPhoto/LeadPhoto';
-import PhotoCaption from '../PhotoCaption/PhotoCaption';
-import PhotoCutline from '../PhotoCutline/PhotoCutline';
+import PhotoInfo from '../PhotoInfo/PhotoInfo';
+
+import './LeadPhotoContainer.css';
 
 class LeadPhotoContainer extends Component {
 	props: {
@@ -20,8 +21,7 @@ class LeadPhotoContainer extends Component {
 		return(
 			<div className='LeadPhotoContainer'>
 				<LeadPhoto src={photoPath} alt={this.props.data.caption} />
-				<PhotoCaption text={this.props.data.caption}/>
-				<PhotoCutline text={this.props.data.cutline}/>
+				<PhotoInfo caption={this.props.data.caption} cutline={this.props.data.cutline}/>
 			</div>
 		)
 	}

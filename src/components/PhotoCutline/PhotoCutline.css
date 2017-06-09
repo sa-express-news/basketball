@@ -1,4 +1,9 @@
-.photoCutline{
+.PhotoCutline{
 	color: #666;
 	font-size: 2.3vh;
+}
+
+@media only screen and (min-width: 768px){
+	.PhotoCutline{
+	}
 }
