@@ -3,9 +3,8 @@
 import React, {Component} from 'react';
 
 import Paragraph from '../Paragraph/Paragraph';
+import PhotoContainer from '../PhotoContainer/PhotoContainer';
 import FullWidthMobilePhoto from '../FullWidthMobilePhoto/FullWidthMobilePhoto';
-import PhotoCaption from '../PhotoCaption/PhotoCaption';
-import PhotoCutline from '../PhotoCutline/PhotoCutline';
 
 
 class Section extends Component {
@@ -24,12 +23,11 @@ class Section extends Component {
 				case 'text':
 					return <Paragraph text={object.value} key={index} />
 				case 'photo':
-					const photoPath = this.loadPhoto(object.value);
-					return <FullWidthMobilePhoto src={photoPath} alt='' key={index}/>
-				case 'caption':
-					return <PhotoCaption text={object.value} key={index} />
-				case 'cutline':
-					return <PhotoCutline text={object.value} key={index} />
+					const photoPath = this.loadPhoto(object.value.source);
+					const photo = <FullWidthMobilePhoto src={photoPath} alt='' />
+					return <PhotoContainer caption={object.value.caption} cutline={object.value.cutline} key={index}>
+						{photo}
+					</PhotoContainer>
 				default:
 					return null
 			}

@@ -1,9 +1,16 @@
 {
-  "meta": {
-    "headline": "Can a New Generation in the Banlieues Change French Politics?",
-    "subhead": "A Muslim city councilor in a stagnant Paris suburb makes the case for modernizing the nation’s Republican values.",
-    "byline": "Elisabeth Zerofsky",
-    "date": "June 5, 2017"
+  "top": {
+    "meta": {
+      "headline": "Can a New Generation in the Banlieues Change French Politics?",
+      "subhead": "A Muslim city councilor in a stagnant Paris suburb makes the case for modernizing the nation’s Republican values.",
+      "byline": "Elisabeth Zerofsky",
+      "date": "June 5, 2017"
+    },
+    "image": {
+      "source": "stock.jpeg",
+      "caption": "this is a photo",
+      "cutline": "Kia Farhang"
+    }
   },
   "sections": {
     "1": [
@@ -25,15 +32,11 @@
       },
       {
         "type": "photo",
-        "value": "stock.jpeg"
-      },
-      {
-        "type": "caption",
-        "value": "this is a photo"
-      },
-      {
-        "type": "cutline",
-        "value": "Kia Farhang"
+        "value": {
+          "source": "stock.jpeg",
+          "caption": "this is a photo",
+          "cutline": "Kia Farhang"
+        }
       }
     ],
     "2": [
@@ -55,15 +58,11 @@
       },
       {
         "type": "photo",
-        "value": "stock.jpeg"
-      },
-      {
-        "type": "caption",
-        "value": "this is a photo"
-      },
-      {
-        "type": "cutline",
-        "value": "Kia Farhang"
+        "value": {
+          "source": "stock.jpeg",
+          "caption": "this is a photo",
+          "cutline": "Kia Farhang"
+        }
       }
     ]
   }
