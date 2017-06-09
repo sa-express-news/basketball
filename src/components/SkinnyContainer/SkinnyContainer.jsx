@@ -2,20 +2,16 @@
 
 import React, {Component} from 'react';
 
+import './SkinnyContainer.css';
+
 class SkinnyContainer extends Component {
 	props: {
 		children: any,
-		width: number
 	};
 
 	render(){
-		const style = {
-			margin: '0 auto',
-			width: `${this.props.width}%`
-		};
-
 		return(
-			<div className='SkinnyContainer' style={style} >
+			<div className='SkinnyContainer'>
 				{this.props.children}
 			</div>
 		)

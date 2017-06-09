@@ -2,6 +2,8 @@
 
 import React, {Component} from 'react';
 
+import './PhotoCutline.css';
+
 class PhotoCutline extends Component {
 	props:{
 		text: string

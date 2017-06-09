@@ -6,94 +6,29 @@ import React, { Component } from 'react';
 import FullWidthPhoto from '../FullWidthPhoto/FullWidthPhoto';
 import PhotoCaption from '../PhotoCaption/PhotoCaption';
 import PhotoCutline from '../PhotoCutline/PhotoCutline';
-import Heading from '../Heading/Heading';
-import Paragraph from '../Paragraph/Paragraph';
 import IntroParagraph from '../IntroParagraph/IntroParagraph';
 import SkinnyContainer from '../SkinnyContainer/SkinnyContainer';
 import Sections from '../Sections/Sections';
+import StoryMeta from '../StoryMeta/StoryMeta';
 
+// $FlowFixMe
 import StockPhoto from '../Photo/stock.jpeg';
 
-const data = {
-  "headline": "Can a New Generation in the Banlieues Change French Politics?",
-  "subhead": "A Muslim city councilor in a stagnant Paris suburb makes the case for modernizing the nation’s Republican values.",
-  "byline": "Elisabeth Zerofsky",
-  "sections": {
-    "1": [
-      {
-        "type": "text",
-        "value": "La Courneuve’s mayor for nearly two decades was Gilles Poux, a stalwart of the French Communist Party, the labor-oriented segment of the French left that once enjoyed broad popularity but whose membership had declined everywhere except in the Paris"
-      },
-      {
-        "type": "text",
-        "value": "He had plenty of ideas. Architecture was a passion, and he had studied urban planning to understand how new buildings might be designed to resist the kind of rapid degradation that plagued the town’s infrastructure. He even helped start a program for architecture students in Paris, who could propose ideas for La Courneuve as their final thesis. The results were sometimes outlandish — one student drafted a blueprint for a perfume museum — but Bouteghmès still found them useful. “It makes you dream a bit,” he said, “which changes what you can do.”"
-      },
-      {
-        "type": "text",
-        "value": "The mayor encouraged Bouteghmès and his friends to run on his ticket; he needed to join forces with young men of their background to win a majority in a town that has more than 100 nationalities. Once elected, though, they felt constrained by a decades-old political machine. In the fall of 2015, Poux shut down the Samaritain Roma camp in La Courneuve that was home to 300 people; he stated that what was needed was a national, not a local, solution. For months, Bouteghmès had helped organize protests to keep it open, and as it became clear the Roma would not prevail, he worked with local nongovernment organizations to help find temporary squats. He felt that he could no longer share a political identity with the mayor, and he and three others split off to form the Élan Populaire Courneuvien, on the theory that as a bloc they could wield some power. Eventually, one of them might even run against the mayor."
-      },
-      {
-        "type": "text",
-        "value": "“In the beginning, in my head, identity was important,” Bouteghmès told me. I met him at an Illy cafe behind the Opéra Garnier in late January, when all the surfaces of the city are darkened from incessant rain. He is tall and unfailingly well put together; that day he had on a navy blue shawl-neck sweater over a pressed white button-down shirt, dark, slim-fitted wool pants and large glasses with clear-plastic frames that were slightly out of tune with his otherwise sober demeanor. We talked for nearly an hour and a half before he smiled for the first time. “In reality, identity doesn’t mean anything,” he said. What had been, initially, an American-style venture in identity politics led him back to the French Republican ideals of universalism. “You have a group of people who all look alike, they criticize the old white guys who keep everything to themselves. But then we do the same thing. The Arabs complain about racism, but they’re racist toward the Roma. Identity is a trap.”"
-      },
-      {
-        "type": "photo",
-        "value": "stock.jpeg"
-      },
-      {
-        "type": "caption",
-        "value": "this is a photo"
-      },
-      {
-        "type": "cutline",
-        "value": "Kia Farhang"
-      }
-    ],
-    "2": [
-      {
-        "type": "text",
-        "value": "Bouteghmès’s father was born near Constantine, in the Algerian east, in 1950, when the country was still a part of France. He left at 23 for France and met Bouteghmès’s mother, a Tunisian, while they were working at a hotel near the Gare de l’Est in Paris. He went back to Algeria, as he always planned, but after a few months he returned to France to be with Bouteghmès’s mother. They bought an apartment in La Courneuve, when suburban design was still confidently utopian. Bouteghmès’s father eventually became a site manager for a construction company and a union representative. “He paid for it dearly,” Bouteghmès told me. “In front of him were the bosses attacking him, next to him people who deserted him, betrayed him.” He would negotiate a pay raise, and they would increase everyone’s salary except for his. “My father would always say to me, ‘Don’t do what I did.’ And now I’m living the same thing he lived. Exactly the same.”"
-      },
-      {
-        "type": "text",
-        "value": "The problems facing the suburbs, Bouteghmès asserted, could not be addressed without taking on the larger national malaise. “For me, today, being named Mehdi Bouteghmès, my father was born in a French colony, my mother was born in a French protectorate, if I want to question the political methods, practices, Republican institutions, people will say I’m an Islamist,” Bouteghmès told me. “It’s not normal.” At 18 he joined the Young Muslims of France, a community youth group, and during a phase in college read extensively in Islamic philosophy and theology. Islam was part of his identity, but now, 10 years later, he was certain this would be used against him if he decided to enter national politics. “They’ll attack me, twist positions I may have taken before, activities I might have been involved in in the past,” he said."
-      },
-      {
-        "type": "text",
-        "value": "Bouteghmès attended high school in the neighboring suburb Aubervilliers, at the Lycée Henri Wallon, where, in 2003, during his first semester, the Affaire Alma and Lila Lévy, which led to the 2004 law banning religious symbols, unfolded. “In my opinion, that was the breaking point of the Republic,” he said. That fall, two sisters, daughters of an Algerian mother who was baptized Catholic and an atheist Jewish father, refused to remove the head scarves they had recently begun to wear. The school suspended them for “ostentatious” attire that was “disturbing” to the public order. “We had debates about it in the schoolyard,” Bouteghmès said. “But with the teachers, there was an incredible racism.” He went on: “You crack. It becomes us against them, against those who want nothing of us — everyone.” His parents weren’t particularly religious, but social dynamics led him, for a time, to delve into Islam. “I would go around talking about values: ‘No, that’s no good. No, this is what Islam is.’ But people allowed me to make my mistakes, let me evolve, realize my errors. I didn’t know who I was yet. Today, if you’re an 18-year-old kid, you talk about Islam like that, you go straight to prison.”"
-      },
-      {
-        "type": "text",
-        "value": "Reading Kant and Machiavelli helped Bouteghmès look beyond what could be a closed circuit in the"
-      },
-      {
-        "type": "photo",
-        "value": "stock.jpeg"
-      },
-      {
-        "type": "text",
-        "value": "this is a test"
-      }
-    ]
-  }
-};
+import Story from '../../story.json';
+import './App.css';
 
 class App extends Component {
   render() {
     return (
-      <div>
+      <div className='App'>
         <SkinnyContainer width={90}>
         <FullWidthPhoto src={StockPhoto} alt='Stock Photo'/>
           <PhotoCaption text='Supporters of Emmanuel Macron distributed pamphlets in La Courneuve in April' />
           <PhotoCutline text='Alex Majoli / Magnum, for The New York Times' />
-          <Heading tag={2} text='Can a New Generation in the Banlieues Change French Politics?' />
-          <Heading tag={5} text='A Muslim city councilor in a stagnant Paris suburb makes the case for modernizing the nation’s Republican values.' />
+          <StoryMeta meta={Story.meta}/>
           <hr/>
           <IntroParagraph text='On Feb. 2, around a quarter to 5 in the afternoon, just as the day began to darken, police officers approached four young men outside a recording studio in the Rose des Vents, an agglomeration of chalky cites, , or public-housing projects, that covers a remote expanse of the northeast Paris suburb Aulnay-sous-Bois. The police asked to see one man’s identity papers. Within minutes, another was on his stomach. The officers put handcuffs on the 21-year-old, whose family, of Congolese origin, lived nearby. When they arrived at the station, staff members noticed that he was in a lot of pain. He was rushed to a hospital, where an examination revealed a 10-centimeter tear in his rectum. It had been caused by a police baton.' />
-          <Sections sections={data.sections}/>
-
-
-
+          <Sections sections={Story.sections}/>
         </SkinnyContainer> 
       </div>
     );

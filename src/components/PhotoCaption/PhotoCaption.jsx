@@ -2,6 +2,8 @@
 
 import React, {Component} from 'react';
 
+import './PhotoCaption.css';
+
 class PhotoCaption extends Component {
 	props:{
 		text: string

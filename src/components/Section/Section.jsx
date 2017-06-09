@@ -3,14 +3,14 @@
 import React, {Component} from 'react';
 
 import Paragraph from '../Paragraph/Paragraph';
-import FullWidthPhoto from '../FullWidthPhoto/FullWidthPhoto';
+import FullWidthMobilePhoto from '../FullWidthMobilePhoto/FullWidthMobilePhoto';
 import PhotoCaption from '../PhotoCaption/PhotoCaption';
 import PhotoCutline from '../PhotoCutline/PhotoCutline';
 
 
 class Section extends Component {
 	props: {
-		data: Array<Object>
+		data: any
 	};
 
 	loadPhoto = (path: string) =>{
@@ -25,7 +25,7 @@ class Section extends Component {
 					return <Paragraph text={object.value} key={index} />
 				case 'photo':
 					const photoPath = this.loadPhoto(object.value);
-					return <FullWidthPhoto src={photoPath} alt='' key={index}/>
+					return <FullWidthMobilePhoto src={photoPath} alt='' key={index}/>
 				case 'caption':
 					return <PhotoCaption text={object.value} key={index} />
 				case 'cutline':
