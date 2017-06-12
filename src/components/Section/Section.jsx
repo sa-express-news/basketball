@@ -5,7 +5,9 @@ import React, {Component} from 'react';
 import Paragraph from '../Paragraph/Paragraph';
 import FullPhotoContainer from '../FullPhotoContainer/FullPhotoContainer';
 import FullPhoto from '../FullPhoto/FullPhoto';
-
+import SmallPhotoDesktopContainer from '../SmallPhotoDesktopContainer/SmallPhotoDesktopContainer';
+import SmallPhotoDesktop from '../SmallPhotoDesktop/SmallPhotoDesktop';
+import PullQuote from '../PullQuote/PullQuote';
 
 class Section extends Component {
 	props: {
@@ -29,12 +31,17 @@ class Section extends Component {
 
 					switch (photo.type){
 						case 'full':
-							const photoComponent = <FullPhoto src={photoPath} alt={photo.caption}/>;
-							return <FullPhotoContainer caption={photo.caption} cutline={photo.cutline} key={index} >{photoComponent}</FullPhotoContainer>
-
+							let photoComponent = <FullPhoto src={photoPath} alt={photo.caption}/>;
+							return <FullPhotoContainer caption={photo.caption} cutline={photo.cutline} key={index}>{photoComponent}</FullPhotoContainer>
+						case 'small':
+							let smallPhotoComponent = <SmallPhotoDesktop src={photoPath} alt={photo.caption}/>
+							return <SmallPhotoDesktopContainer caption={photo.caption} cutline={photo.cutline} key={index}>{smallPhotoComponent}</SmallPhotoDesktopContainer>
 						default:
 							return null
 					};
+
+				case 'pullquote':
+					return <PullQuote quote={object.value.quote} key={index}/>
 				default:
 					return null
 			};
