@@ -6,8 +6,8 @@ date: June 5, 2017
 
 {top.image}
 source: flag.jpeg
-caption: thisis a photo
-cutline: Kia Farhang/SAEN
+caption: A generic caption to test what happens when captions are very long in this template.
+cutline: Kia Farhang / Stock Photos R Us
 
 [+sections.1]
 
@@ -20,10 +20,10 @@ Cras scelerisque mauris in dignissim euismod. Aenean velit ipsum, vulputate ac t
 Vivamus eleifend mattis augue, sed fringilla odio congue eget. Aliquam ac nunc non lectus gravida congue tristique eu enim. Vestibulum mattis et nulla in congue. Aenean pharetra tellus in arcu varius sodales. Sed eleifend commodo hendrerit. Morbi eu velit quam. Aliquam erat volutpat. Aliquam erat volutpat. In eleifend quam nec iaculis faucibus. Donec sodales ac sem malesuada lobortis. Maecenas sagittis vitae dui quis luctus. Duis porta tincidunt libero, eu viverra arcu vestibulum sit amet. Morbi vitae augue est.
 
 {.photo}
-source: pier.jpeg
-caption: this is a photo
-cutline: Kia Farhang
-type: full
+source: woman.jpeg
+caption: A woman poses for a portrait to show off smaller photos in this story template.
+cutline: Kia Farhang / Stock Photos R Us
+type: small
 {}
 []
 
@@ -35,6 +35,10 @@ Maecenas vehicula venenatis lacus id egestas. Suspendisse laoreet erat in urna s
 
 In convallis ipsum eget sapien luctus molestie. Maecenas mollis diam non sapien aliquam bibendum. Integer ultrices consequat bibendum. In molestie dictum ligula, at tristique lorem luctus id. Duis vel dolor a nunc malesuada elementum. Sed eget nulla id magna hendrerit euismod. Fusce imperdiet nibh non ligula tristique, vitae varius ante lobortis. Praesent malesuada pulvinar felis, vel laoreet lorem venenatis sed. Aliquam ac lorem ut nisi ultrices gravida. Duis consequat quam nec porta rutrum.
 
+{.pullquote}
+quote: If I want to question the political methods, practices, Republican institutions, people will say I’m an Islamist.
+{}
+
 Aliquam vel nibh nec enim condimentum interdum. Aliquam dui lorem, elementum sed dolor ac, maximus sollicitudin felis. Maecenas efficitur convallis felis, nec efficitur neque ultricies sed. Sed aliquam scelerisque erat, et euismod odio interdum vitae. Phasellus ex metus, ultricies in dui ac, aliquet placerat tellus. Nam fringilla suscipit odio vel tincidunt. Ut ac vulputate metus. Donec eget placerat enim, vitae aliquam nisi. Aenean rutrum diam enim, non rhoncus massa accumsan non. Etiam dui risus, interdum vitae velit non, porta placerat augue. Donec eget ligula ac urna commodo tempor vitae quis nunc. Nulla fermentum tempor rutrum. Ut gravida elit eget est mattis facilisis id quis mi.
 
 Cras orci ipsum, tristique nec fermentum eu, posuere a diam. Maecenas maximus massa eu elementum finibus. Donec eget venenatis quam, sed convallis lorem. Nunc malesuada tortor sed blandit lacinia. Etiam nec nulla vel purus rutrum malesuada ut quis sapien. Donec sollicitudin commodo lacus. Vestibulum nec congue elit.
@@ -42,9 +46,9 @@ Cras orci ipsum, tristique nec fermentum eu, posuere a diam. Maecenas maximus ma
 Curabitur viverra eros imperdiet orci maximus fermentum. Sed sodales ligula vitae ligula venenatis hendrerit vel id massa. Quisque sed felis non risus eleifend imperdiet et id lacus. Fusce eu lorem ut nunc ultrices blandit. Donec odio mauris, rhoncus vitae quam in, feugiat rutrum sem. Mauris in tortor eget magna egestas laoreet sit amet sed ex. Nullam pharetra dui a porta tincidunt. Pellentesque et odio id erat pellentesque tempor eu id massa. Etiam eget bibendum massa. In ultrices velit id mauris suscipit pretium.
 
 {.photo}
-source: pigeons.jpeg
-caption: this is a photo
-cutline: Kia Farhang
+source: pier.jpeg
+caption: A generic caption to test what happens when captions are very long in this template.
+cutline: Kia Farhang / Stock Photos R Us
 type: full
 {}
 []
@@ -57,14 +61,18 @@ Nam in arcu nec sapien commodo tincidunt. Phasellus lobortis nisi id turpis vest
 
 Aenean ornare felis in viverra vulputate. Integer imperdiet neque id aliquet cursus. Curabitur suscipit, purus quis lacinia dapibus, mi purus pulvinar ante, id venenatis urna odio tincidunt lorem. Praesent faucibus risus eget fringilla dapibus. Donec nibh neque, tincidunt quis orci quis, aliquet bibendum quam. Praesent erat mauris, hendrerit quis convallis vel, accumsan ut felis. Nunc nec lectus eget risus imperdiet malesuada. Sed feugiat erat vel mollis semper. Aliquam erat volutpat. Praesent volutpat ullamcorper justo, sit amet pharetra nulla volutpat ut.
 
+{.pullquote}
+quote: Who will talk to these children in the rich neighborhoods about discrimination?
+{}
+
 Sed sit amet purus eu velit placerat suscipit ac cursus leo. Suspendisse non tincidunt magna. Sed mauris dolor, consequat molestie dui in, lacinia vulputate mauris. Fusce bibendum dui et lectus vehicula consequat. In hac habitasse platea dictumst. Mauris vulputate id metus eget efficitur. Nunc ac posuere quam. Fusce vulputate egestas iaculis. Nulla in eros consequat, dapibus ipsum eu, ultricies sapien.
 
 Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras a leo ultricies, sodales nunc at, egestas lacus. Aenean placerat turpis egestas fringilla cursus. In dignissim molestie massa, ut semper turpis. Donec tincidunt leo dolor. Fusce varius neque tristique, maximus augue eget, suscipit nibh. Proin sed elit eros. Proin feugiat purus justo, vel maximus eros consectetur eu. Sed mattis nibh sagittis, condimentum quam vel, blandit arcu.
 
 {.photo}
 source: books.jpeg
-caption: this is a photo
-cutline: Kia Farhang
+caption: A generic caption to test what happens when captions are very long in this template.
+cutline: Kia Farhang / Stock Photos R Us
 type: full
 {}
 []
@@ -75,4 +83,16 @@ Sed vitae fringilla nunc, non dictum quam. Cras ornare vestibulum velit sit amet
 
 Nam in arcu nec sapien commodo tincidunt. Phasellus lobortis nisi id turpis vestibulum porttitor. Ut iaculis, purus non hendrerit iaculis, erat ante lobortis nulla, in cursus purus ligula in nisl. Curabitur fringilla elit ac magna iaculis ullamcorper. Cras dolor nunc, ultrices at fermentum eget, volutpat non enim. Vestibulum massa orci, suscipit vitae tortor vitae, condimentum bibendum velit. Donec ultricies tellus vitae enim eleifend fringilla. Vestibulum feugiat quam ut lectus auctor auctor. Cras in bibendum dui. Maecenas in dignissim nulla, id pulvinar ipsum. Duis dapibus, quam sit amet mattis ultricies, purus risus varius massa, vitae mollis orci turpis at nulla. Proin in malesuada diam. Duis laoreet urna id arcu pulvinar, ac consequat odio sodales. Donec sit amet feugiat risus, sit amet accumsan odio. Fusce vel dolor eget leo elementum gravida a a leo. Phasellus erat arcu, maximus quis neque sit amet, condimentum viverra nunc.
 
+{.photo}
+source: pigeons.jpeg
+caption: A generic caption to test what happens when captions are very long in this template.
+cutline: Kia Farhang / Stock Photos R Us
+type: full
+{}
 []
+
+[+sections.65]
+
+Sed vitae fringilla nunc, non dictum quam. Cras ornare vestibulum velit sit amet aliquam. Praesent mauris libero, pretium quis sodales sed, cursus ac magna. In ullamcorper dolor ac lectus sodales faucibus. Sed sed augue sit amet velit vestibulum tempus id nec ipsum. Aliquam a sagittis mauris. Cras interdum, tortor quis scelerisque elementum, odio ipsum semper ex, vitae tincidunt purus lectus sit amet sapien. Fusce sagittis maximus metus, tristique commodo ligula sollicitudin nec. Donec quis quam et sem maximus cursus eget a odio. Sed at augue nec arcu hendrerit varius. In interdum est eu mi finibus, non ullamcorper felis pretium. Quisque feugiat orci in porta mollis.
+
+Nam in arcu nec sapien commodo tincidunt. Phasellus lobortis nisi id turpis vestibulum porttitor. Ut iaculis, purus non hendrerit iaculis, erat ante lobortis nulla, in cursus purus ligula in nisl. Curabitur fringilla elit ac magna iaculis ullamcorper. Cras dolor nunc, ultrices at fermentum eget, volutpat non enim. Vestibulum massa orci, suscipit vitae tortor vitae, condimentum bibendum velit. Donec ultricies tellus vitae enim eleifend fringilla. Vestibulum feugiat quam ut lectus auctor auctor. Cras in bibendum dui. Maecenas in dignissim nulla, id pulvinar ipsum. Duis dapibus, quam sit amet mattis ultricies, purus risus varius massa, vitae mollis orci turpis at nulla. Proin in malesuada diam. Duis laoreet urna id arcu pulvinar, ac consequat odio sodales. Donec sit amet feugiat risus, sit amet accumsan odio. Fusce vel dolor eget leo elementum gravida a a leo. Phasellus erat arcu, maximus quis neque sit amet, condimentum viverra nunc.
