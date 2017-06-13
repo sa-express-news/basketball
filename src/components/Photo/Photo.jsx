@@ -23,7 +23,7 @@ class Photo extends Component {
 
 		return(
 			<div className='photoContainer' style={containerStyle}>
-				<img src={this.props.src} width='100%'/>		
+				<img src={this.props.src} width='100%' alt={this.props.alt}/>		
 			</div>
 		)
 	}
