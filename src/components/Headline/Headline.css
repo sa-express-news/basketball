@@ -1,5 +1,11 @@
-.headline{
+.Headline{
 	color: #000;
-	font-size: 5vh;
+	font-size: 4vh;
 	font-weight: bold;
+}
+
+@media (min-width: 1024px){
+	.Headline{
+		font-size: 6.5vh;
+	}
 }
