@@ -8,6 +8,7 @@ import FullPhotoContainer from '../FullPhotoContainer/FullPhotoContainer';
 import SmallPhotoDesktop from '../SmallPhotoDesktop/SmallPhotoDesktop';
 import SmallPhotoDesktopContainer from '../SmallPhotoDesktopContainer/SmallPhotoDesktopContainer';
 import PullQuote from '../PullQuote/PullQuote';
+import RelatedContent from '../RelatedContent/RelatedContent';
 
 export default{
 	text: (object: Object, key: number) => <Paragraph text={object.value} key={key}/>,
@@ -30,11 +31,13 @@ export default{
 		};
 	},
 
-	pullquote: (object: Object, key: number) => <PullQuote quote={object.value.quote} key={key} />,
-
 	loadPhoto: function(path: string){
 		return require(`../../images/${path}`);
 	},
+
+	pullquote: (object: Object, key: number) => <PullQuote quote={object.value.quote} key={key} />,
+
+	related: (object: Object, key: number) => <RelatedContent headline={object.value.headline} link={object.value.link} key={key} />,
 
 	renderComponent: function(object: Object, key: number){
 		return object.type && this[object.type] ? this[object.type](object, key) : null;
