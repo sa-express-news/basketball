@@ -15,6 +15,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sollicitud
 
 Quisque volutpat facilisis tincidunt. Duis ac fermentum purus, ac vehicula lacus. Proin est dui, mollis vel ligula nec, porttitor iaculis eros. Nam nisi libero, tincidunt in eleifend sit amet, gravida a magna. Vestibulum porttitor tincidunt nulla finibus posuere. Phasellus dapibus, nisi et ullamcorper tempus, ex justo vulputate felis, sit amet elementum est mauris vel tellus. Nunc facilisis justo mauris, non rutrum orci scelerisque finibus. Aliquam ac scelerisque mi. Etiam mollis augue ante, eget congue augue eleifend ut.
 
+{.related}
+headline: Riffing on Reagan, Straus speaks his mind on special session agenda
+link: http://www.expressnews.com/news/local/article/The-gloves-are-off-Straus-slams-special-session-11221040.php
+{}
+
 Cras scelerisque mauris in dignissim euismod. Aenean velit ipsum, vulputate ac tellus et, suscipit lobortis leo. Cras a quam sit amet urna placerat suscipit ac eget nunc. In enim mi, porta et enim vitae, suscipit tristique libero. Nam at suscipit quam. Aenean consectetur lobortis varius. Duis in pulvinar enim. Sed sagittis varius imperdiet. Ut sodales turpis non felis aliquet vehicula. Duis convallis odio sit amet nibh convallis mattis. Mauris erat neque, pharetra eget nunc nec, luctus vestibulum nisi. Nullam vestibulum lacus ligula, sit amet pharetra nibh tempus non. Donec accumsan odio eget ex molestie sollicitudin.
 
 Vivamus eleifend mattis augue, sed fringilla odio congue eget. Aliquam ac nunc non lectus gravida congue tristique eu enim. Vestibulum mattis et nulla in congue. Aenean pharetra tellus in arcu varius sodales. Sed eleifend commodo hendrerit. Morbi eu velit quam. Aliquam erat volutpat. Aliquam erat volutpat. In eleifend quam nec iaculis faucibus. Donec sodales ac sem malesuada lobortis. Maecenas sagittis vitae dui quis luctus. Duis porta tincidunt libero, eu viverra arcu vestibulum sit amet. Morbi vitae augue est.
@@ -91,7 +96,7 @@ type: full
 {}
 []
 
-[+sections.65]
+[+sections.5]
 
 Sed vitae fringilla nunc, non dictum quam. Cras ornare vestibulum velit sit amet aliquam. Praesent mauris libero, pretium quis sodales sed, cursus ac magna. In ullamcorper dolor ac lectus sodales faucibus. Sed sed augue sit amet velit vestibulum tempus id nec ipsum. Aliquam a sagittis mauris. Cras interdum, tortor quis scelerisque elementum, odio ipsum semper ex, vitae tincidunt purus lectus sit amet sapien. Fusce sagittis maximus metus, tristique commodo ligula sollicitudin nec. Donec quis quam et sem maximus cursus eget a odio. Sed at augue nec arcu hendrerit varius. In interdum est eu mi finibus, non ullamcorper felis pretium. Quisque feugiat orci in porta mollis.
 
