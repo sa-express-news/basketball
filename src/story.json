@@ -7,20 +7,45 @@
       "date": "June 5, 2017"
     },
     "image": {
-      "source": "flag.jpeg",
-      "caption": "A generic caption to test what happens when captions are very long in this template.",
-      "cutline": "Kia Farhang / Stock Photos R Us"
+      "source": "team-banner.jpg",
+      "caption": "St. Anthony's Quinton Uribe (center) and teammates leave the locker room before their game against Texas Christian School.",
+      "cutline": "Edward A. Ornelas / San Antonio Express-News"
     }
   },
   "sections": {
     "1": [
       {
         "type": "text",
-        "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sollicitudin, arcu eget interdum consequat, arcu nisi lobortis est, suscipit consectetur mauris ex et elit. Integer vehicula tortor nunc, vel ultricies lectus facilisis et. Praesent sed massa erat. Integer eleifend posuere libero, condimentum ultrices augue hendrerit nec. Nulla luctus, tortor in interdum mattis, lacus erat auctor ante, quis eleifend leo dolor in ipsum. Curabitur at posuere lacus. Nulla condimentum tincidunt magna, vitae iaculis tellus mattis nec. Morbi pulvinar nisi quis placerat vehicula. Pellentesque eu bibendum urna, sit amet volutpat ante. Aenean ut sem a metus viverra sollicitudin at nec nisi. Etiam ornare, tortor id gravida lacinia, nibh elit tristique arcu, eu feugiat nisl purus sit amet metus. In tellus felis, tristique sed sagittis eu, semper vitae libero."
+        "value": "Towering above his high school defenders, 6-foot-10 center Charles Bassey took the ball on the right wing of the basket, dribbled, then flung it to the backboard in the playful style of a Harlem Globetrotter."
       },
       {
         "type": "text",
-        "value": "Quisque volutpat facilisis tincidunt. Duis ac fermentum purus, ac vehicula lacus. Proin est dui, mollis vel ligula nec, porttitor iaculis eros. Nam nisi libero, tincidunt in eleifend sit amet, gravida a magna. Vestibulum porttitor tincidunt nulla finibus posuere. Phasellus dapibus, nisi et ullamcorper tempus, ex justo vulputate felis, sit amet elementum est mauris vel tellus. Nunc facilisis justo mauris, non rutrum orci scelerisque finibus. Aliquam ac scelerisque mi. Etiam mollis augue ante, eget congue augue eleifend ut."
+        "value": "In a blur, Bassey swooped to the rim, caught his own pass off the glass and slammed down a two-handed dunk that sparked a roar from the crowd in the small St. Anthony Catholic High School gym."
+      },
+      {
+        "type": "text",
+        "value": "The Feb. 4 game against Little Rock’s Southwest Christian Academy demonstrated why the Nigerian sophomore, nicknamed “Big Ticket,” is considered the best big man in high school basketball and a top prospect already in the sights of college powers Kansas, Washington and Texas A&M — three schools Bassey said have offered him a scholarship."
+      },
+      {
+        "type": "photo",
+        "value": {
+          "source": "bassey-in-game-sa.jpg",
+          "caption": "St. Anthony's Charles Bassey looks for room around  Southwest Christian's Mladen Armus during their game held Saturday Jan. 21, 2017 at Athlos Leadership Academy.",
+          "cutline": "Edward A. Ornelas / San Antonio Express-News",
+          "type": "small-left"
+        }
+      },
+      {
+        "type": "text",
+        "value": "How Bassey ended up at St. Anthony — a historic private school in Monte Vista north of downtown — sheds light on an international recruiting effort that involves the University of the Incarnate Word, a wealthy former trustee of the university, and an agent who owns a nonprofit that advertises itself as a conduit for foreign athletes seeking an education in the United States."
+      },
+      {
+        "type": "text",
+        "value": "The recruitment of Bassey and other international athletes to San Antonio — the public charter Athlos Academy also enrolled players through the nonprofit — also illustrates how foreign recruiting has filtered down from the college level to high school sports as coaches, agents and donors seek to identify and groom top players for Division 1 college teams, and eventually the NBA."
+      },
+      {
+        "type": "text",
+        "value": "While enrolling foreign players isn’t unusual, high schools, like colleges, can be sanctioned if they provide improper financial incentives to the athletes. St. Anthony — a small school of 355 students in the Archdiocese of San Antonio and never before considered a basketball power — ran afoul of the rules last fall."
       },
       {
         "type": "related",
@@ -31,127 +56,389 @@
       },
       {
         "type": "text",
-        "value": "Cras scelerisque mauris in dignissim euismod. Aenean velit ipsum, vulputate ac tellus et, suscipit lobortis leo. Cras a quam sit amet urna placerat suscipit ac eget nunc. In enim mi, porta et enim vitae, suscipit tristique libero. Nam at suscipit quam. Aenean consectetur lobortis varius. Duis in pulvinar enim. Sed sagittis varius imperdiet. Ut sodales turpis non felis aliquet vehicula. Duis convallis odio sit amet nibh convallis mattis. Mauris erat neque, pharetra eget nunc nec, luctus vestibulum nisi. Nullam vestibulum lacus ligula, sit amet pharetra nibh tempus non. Donec accumsan odio eget ex molestie sollicitudin."
+        "value": "Bassey, 16, arrived at St. Anthony as a freshman in the summer of 2015-16, leading the team to a 32-6 record and an appearance in the state championship game within the Texas Association of Private and Parochial Schools a year after it had a losing record of 7-15."
       },
       {
         "type": "text",
-        "value": "Vivamus eleifend mattis augue, sed fringilla odio congue eget. Aliquam ac nunc non lectus gravida congue tristique eu enim. Vestibulum mattis et nulla in congue. Aenean pharetra tellus in arcu varius sodales. Sed eleifend commodo hendrerit. Morbi eu velit quam. Aliquam erat volutpat. Aliquam erat volutpat. In eleifend quam nec iaculis faucibus. Donec sodales ac sem malesuada lobortis. Maecenas sagittis vitae dui quis luctus. Duis porta tincidunt libero, eu viverra arcu vestibulum sit amet. Morbi vitae augue est."
+        "value": "St. Anthony enrolled five more international players last year, sparking an investigation by TAPPS, which found that Bassey and two other foreign players received improper financial support and ruled them ineligible to play. Undeterred, St. Anthony ended its 19-year association with TAPPS and joined the San Antonio-based Texas Christian Athletic League, which placed the Yellow Jackets in a boys basketball division that allows teams to recruit foreign players and provide scholarships."
       },
       {
         "type": "photo",
         "value": {
-          "source": "woman.jpeg",
-          "caption": "A woman poses for a portrait to show off smaller photos in this story template.",
-          "cutline": "Kia Farhang / Stock Photos R Us",
-          "type": "small"
+          "source": "international-benched.jpg",
+          "caption": "Ousmane Ndimi,Charles Bassey,Center, and Obi Prosperme in St. Anthony's Alumni Tournament on Thursday, November 17, 2016. Four players were not able to compete from a ruling from their league.",
+          "cutline": "Ronald Cortes / Freelance for Express-News",
+          "type": "full"
         }
+      },
+      {
+        "type": "text",
+        "value": "Through its new sports affiliation, St. Anthony competed in national showcase tournaments last season and played against other private schools in Texas and other states. The schools play as independents or are in non-traditional leagues that, like TCAL, permit financial inducements that normally would exclude the teams from traditional high school leagues."
+      },
+      {
+        "type": "text",
+        "value": "Acquiring a good education in the U.S. is part of the pitch to promising foreign athletes. But some players brought to San Antonio have drifted from school to school to make their mark. St. Anthony was the third high school in as many years for two of Bassey’s teammates — star guard Sam Chaput from Canada and Ousmane Nadim from Senegal."
+      },
+      {
+        "type": "text",
+        "value": "Founded in 1903 by the Oblates of Mary Immaculate as a junior seminary, St. Anthony has been managed by the University of the Incarnate Word since 1995, when it became a high school for boys. It opened enrollment to girls starting in 2003."
+      },
+      {
+        "type": "text",
+        "value": "The private Catholic university and St. Anthony are affiliated with the Sisters of Charity of the Incarnate Word, a religious order within the archdiocese. The religious order and archdiocese would not comment on St. Anthony’s recruitment of foreign athletes."
+      },
+      {
+        "type": "photo",
+        "value": {
+          "source": "bassey-nadim-chaput.jpg",
+          "caption": "St. Anthony's Sam Chaput, (from left), Charles Bassey, and Ousmane Ndim talk after school.",
+          "cutline": "Edward A. Ornelas / San Antonio Express-News",
+          "type": "full"
+        }
+      },
+      {
+        "type": "text",
+        "value": "Incarnate Word, which touts itself as the largest Catholic university in Texas, with an enrollment of nearly 11,000 students at its main and satellite campuses, has heavily promoted athletics — it fielded its first football team in 2009 — as it completes a three-year transition to Division 1 sports this fall."
+      },
+      {
+        "type": "text",
+        "value": "“The high school teams are targeted to become very good from an athletic standpoint just like the athletic teams on the college level,” said former UIW President Lou Agnese, who ended his 30-year tenure as president last year. “So it’s all the same part of the overall development of the university.”"
+      },
+      {
+        "type": "text",
+        "value": "But two NCAA rules and recruiting experts — Rick Allen of Informed Athlete and Jack Renkens of Recruiting Realities — said it is rare for a college to manage a high school. And both said they were not aware of any Division I university that has used an affiliated high school as a feeder athletic program, which would violate NCAA rules."
+      },
+      {
+        "type": "text",
+        "value": "Incarnate Word Vice President David Jurenovich, who spearheaded the Division 1 push with Agnese, said the university does not intend to use St. Anthony as a feeder program for its basketball team. He described St. Anthony’s recruiting success, rather than being part of an orchestrated plan, as a chain reaction of events beginning with the enrollment of talented players."
+      },
+      {
+        "type": "text",
+        "value": "He said Incarnate Word aspires to play in the NCAA basketball tournament and in football bowl games."
+      },
+      {
+        "type": "text",
+        "value": "Bassey’s arrangement with St. Anthony could affect his eligibility to play at a Division I school, NCAA spokeswoman Michelle Hosick said in an email."
+      },
+      {
+        "type": "pullquote",
+        "value": {
+          "quote": "Wherever he goes, there would be a lot of questions that need to be answered."
+        }
+      },
+      {
+        "type": "text",
+        "value": "She said athletes may receive tuition, room and board before enrolling in college, as long as the person paying the bills “isn’t an agent, professional team/organization, NCAA member school or a booster of a member school.”"
+      },
+      {
+        "type": "text",
+        "value": "“Wherever he goes,” Allen said of Bassey, “there would be a lot of questions that need to be answered.”"
       }
     ],
     "2": [
       {
-        "type": "text",
-        "value": "Duis sagittis odio quis commodo finibus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sed dolor viverra, rhoncus sem non, luctus lectus. Fusce at maximus lorem. Morbi at ipsum justo. Vivamus id bibendum nunc, vel gravida ligula. Cras sit amet tincidunt erat. Aenean ut suscipit magna. Suspendisse quis orci tempor, aliquet nunc in, vestibulum ex. Aliquam sit amet luctus nisl, ac ultrices erat. Praesent posuere sollicitudin massa. Duis nibh purus, facilisis malesuada odio in, aliquet pulvinar eros."
+        "type": "subhead",
+        "value": "Agent gets involved"
       },
       {
         "type": "text",
-        "value": "Maecenas vehicula venenatis lacus id egestas. Suspendisse laoreet erat in urna suscipit dignissim. Cras lacus enim, venenatis eu odio tincidunt, hendrerit suscipit massa. Proin quis dui molestie, volutpat leo a, congue dolor. Nunc eu neque quis magna scelerisque ultricies. Fusce at tempus eros, ut posuere lorem. Proin tincidunt risus felis, eget consequat ligula volutpat ut. Suspendisse potenti. Fusce fermentum elit sit amet nulla fermentum, sit amet fringilla nisl aliquam. Sed interdum porta finibus. Vestibulum auctor odio vel ex facilisis vehicula. Morbi tristique mi quis ipsum vehicula pulvinar. Integer quis augue blandit, molestie nisi vel, interdum tellus. Duis condimentum in sem sit amet interdum."
+        "value": "Bassey’s trail to San Antonio was carved by Hennssy Auriantal, a Canadian from Montreal and former basketball player at the University of Wisconsin who worked as an assistant coach at Jackson State University in Mississippi."
       },
       {
         "type": "text",
-        "value": "In convallis ipsum eget sapien luctus molestie. Maecenas mollis diam non sapien aliquam bibendum. Integer ultrices consequat bibendum. In molestie dictum ligula, at tristique lorem luctus id. Duis vel dolor a nunc malesuada elementum. Sed eget nulla id magna hendrerit euismod. Fusce imperdiet nibh non ligula tristique, vitae varius ante lobortis. Praesent malesuada pulvinar felis, vel laoreet lorem venenatis sed. Aliquam ac lorem ut nisi ultrices gravida. Duis consequat quam nec porta rutrum."
-      },
-      {
-        "type": "pullquote",
-        "value": {
-          "quote": "If I want to question the political methods, practices, Republican institutions, people will say I’m an Islamist."
-        }
+        "value": "St. Anthony hired him as an athletic coordinator in 2015-16."
       },
       {
         "type": "text",
-        "value": "Aliquam vel nibh nec enim condimentum interdum. Aliquam dui lorem, elementum sed dolor ac, maximus sollicitudin felis. Maecenas efficitur convallis felis, nec efficitur neque ultricies sed. Sed aliquam scelerisque erat, et euismod odio interdum vitae. Phasellus ex metus, ultricies in dui ac, aliquet placerat tellus. Nam fringilla suscipit odio vel tincidunt. Ut ac vulputate metus. Donec eget placerat enim, vitae aliquam nisi. Aenean rutrum diam enim, non rhoncus massa accumsan non. Etiam dui risus, interdum vitae velit non, porta placerat augue. Donec eget ligula ac urna commodo tempor vitae quis nunc. Nulla fermentum tempor rutrum. Ut gravida elit eget est mattis facilisis id quis mi."
+        "value": "Auriantal, who has declined multiple interview requests with the Express-News, previously said he had a pre-existing relationship with Bassey and brought him to campus."
       },
       {
         "type": "text",
-        "value": "Cras orci ipsum, tristique nec fermentum eu, posuere a diam. Maecenas maximus massa eu elementum finibus. Donec eget venenatis quam, sed convallis lorem. Nunc malesuada tortor sed blandit lacinia. Etiam nec nulla vel purus rutrum malesuada ut quis sapien. Donec sollicitudin commodo lacus. Vestibulum nec congue elit."
-      },
-      {
-        "type": "text",
-        "value": "Curabitur viverra eros imperdiet orci maximus fermentum. Sed sodales ligula vitae ligula venenatis hendrerit vel id massa. Quisque sed felis non risus eleifend imperdiet et id lacus. Fusce eu lorem ut nunc ultrices blandit. Donec odio mauris, rhoncus vitae quam in, feugiat rutrum sem. Mauris in tortor eget magna egestas laoreet sit amet sed ex. Nullam pharetra dui a porta tincidunt. Pellentesque et odio id erat pellentesque tempor eu id massa. Etiam eget bibendum massa. In ultrices velit id mauris suscipit pretium."
+        "value": "Jurenovich, speaking on behalf of St. Anthony, said Auriantal was hired by St. Anthony as a potential coach, recruiter of international students and student-affairs liaison for the high school’s 42 international boarding students."
       },
       {
         "type": "photo",
         "value": {
-          "source": "pier.jpeg",
-          "caption": "A generic caption to test what happens when captions are very long in this template.",
-          "cutline": "Kia Farhang / Stock Photos R Us",
-          "type": "full"
+          "source": "auriantal.jpg",
+          "caption": "St. Anthony assistant coach Hennssy Auriantal (center) talks with players Charles Bassey (left) and Obi Prosper before the game with Virginia Episcopal School at the Nassau Community College gym in Garden City, NY.",
+          "cutline": "Edward A. Ornelas / San Antonio Express-News",
+          "type": "small-right"
         }
+      },
+      {
+        "type": "text",
+        "value": "Auriantal also is director of a Dallas-based nonprofit called Yes II Success that provides a “unique educational scholarship program in the United States ... to facilitate the transition of international students,” into the country, according to its Facebook page."
+      },
+      {
+        "type": "text",
+        "value": "An online presentation by Yes II Success on emaze.com outlines its plan to select international students based on their “academics, skill, athleticism, and physical strength,” along with managing their careers from the high school through professional levels."
+      },
+      {
+        "type": "text",
+        "value": "The plan states prospective international students must provide guardianship and power of attorney to the organization, which will “maintain total control of all decisions” such as where the students attend school and their college recruitment."
+      },
+      {
+        "type": "text",
+        "value": "Jackson State head basketball coach Wayne Brent, who had Auriantal on his staff for two years, said the international connections he used to bring players to the U.S. was among the reasons he was hired. Brent said he fired Auriantal partly because none of his international players ended up at Jackson State."
+      },
+      {
+        "type": "iframe",
+        "value": {
+          "source": "https://docs.google.com/presentation/d/19T3P1_uW-Nt149AJnYzMyZ177_z5wtTMDYAnZ570Hqc/embed?start=false&loop=true&delayms=3000"
+        }
+      },
+      {
+        "type": "text",
+        "value": "“He was always on the phone, always trying to help kids get over here. He didn’t care what high school they went to,” Brent said. “He would find a kid a place to go, and the place to go would be prep schools that would put kids on scholarships. He would do that all the time.”"
+      },
+      {
+        "type": "text",
+        "value": "A small high school in San Antonio might be an unusual place to land for a former college assistant. But Auriantal had connections to the city through his relationship with Dallas developer Mike Beucler, a former Incarnate Word trustee whose son Evan was a sophomore guard on the basketball team last season."
+      },
+      {
+        "type": "text",
+        "value": "Yes II Success, which also sponsors an AAU summer basketball team, filed a 2014 corporate registration at the same address as Beucler Properties in Dallas. Nonprofits must make their annual tax records available to the public. But a search in a public database of nonprofits turned up no records for Yes II Success."
+      },
+      {
+        "type": "pullquote",
+        "value": {
+          "quote": "He would find a kid a place to go, and the place to go would be prep schools that would put kids on scholarships. He would do that all the time."
+        }
+      },
+      {
+        "type": "text",
+        "value": "Beucler, 65, who declined to speak on the record in a phone interview, has long had athletic and business interests in San Antonio. Auto magnate Ernesto Ancira, who served on the Incarnate Word board with Beucler until they both stepped down last year, said they also were on the board at Dominion Country Club in the 1980s, with Beucler helping the club land the PGA Champions Tour event from 1985-2015."
+      },
+      {
+        "type": "text",
+        "value": "In 2013, BC Realty Partners, for which Beucler was principal, proposed a 26-story high-rise hotel atop the Joske’s building near the Alamo. The city’s Historic and Design Review Commission rejected the proposal because it did not conform to the area’s established design pattern and would have cast winter shadows on the Alamo."
+      },
+      {
+        "type": "text",
+        "value": "A source close to the Incarnate Word administration, who asked not to be named, said Beucler discussed a plan to bring international basketball players to St. Anthony in 2015."
+      },
+      {
+        "type": "text",
+        "value": "Ancira said Beucler “was the (trustee) that was most involved in athletics. He took a real interest.”"
+      },
+      {
+        "type": "photo",
+        "value": {
+          "source": "beucler.jpg",
+          "caption": "Stephen Geri, Mike Beucler (sponsors), Elizabeth Tobias (Sr Exec Director Central & South Tx Area American Diabetes Assoc) and Tony Busa (Pres DGD Research) were at the Wurzbach Estates on 9/20/2007 for the American Diabetes Association benefit.",
+          "cutline": "Leland A. Outz / Special to the Express-News",
+          "type": "small-right"
+        }
+      },
+      {
+        "type": "text",
+        "value": "Bassey arrived that summer for his freshman year. Alejandro Calderon, St. Anthony’s director of enrollment, confirmed the Beucler Family Partnership guaranteed Bassey’s school expenses on the immigration paperwork he used to obtain his student visa."
+      },
+      {
+        "type": "text",
+        "value": "The total cost to attend the school as an international boarding student, according to the St. Anthony website, is more than $38,000 per year."
+      },
+      {
+        "type": "text",
+        "value": "Ancira also said Mike Beucler, who played basketball at Texas Lutheran University in Seguin, is an athletic booster for Incarnate Word."
+      },
+      {
+        "type": "text",
+        "value": "Jurenovich said Beucler was “instrumental in developing” the annual wild game dinner that serves as a fundraiser for the men’s basketball team."
       }
     ],
     "3": [
       {
-        "type": "text",
-        "value": "Sed vitae fringilla nunc, non dictum quam. Cras ornare vestibulum velit sit amet aliquam. Praesent mauris libero, pretium quis sodales sed, cursus ac magna. In ullamcorper dolor ac lectus sodales faucibus. Sed sed augue sit amet velit vestibulum tempus id nec ipsum. Aliquam a sagittis mauris. Cras interdum, tortor quis scelerisque elementum, odio ipsum semper ex, vitae tincidunt purus lectus sit amet sapien. Fusce sagittis maximus metus, tristique commodo ligula sollicitudin nec. Donec quis quam et sem maximus cursus eget a odio. Sed at augue nec arcu hendrerit varius. In interdum est eu mi finibus, non ullamcorper felis pretium. Quisque feugiat orci in porta mollis."
+        "type": "subhead",
+        "value": "Joining the national ranks"
       },
       {
         "type": "text",
-        "value": "Nam in arcu nec sapien commodo tincidunt. Phasellus lobortis nisi id turpis vestibulum porttitor. Ut iaculis, purus non hendrerit iaculis, erat ante lobortis nulla, in cursus purus ligula in nisl. Curabitur fringilla elit ac magna iaculis ullamcorper. Cras dolor nunc, ultrices at fermentum eget, volutpat non enim. Vestibulum massa orci, suscipit vitae tortor vitae, condimentum bibendum velit. Donec ultricies tellus vitae enim eleifend fringilla. Vestibulum feugiat quam ut lectus auctor auctor. Cras in bibendum dui. Maecenas in dignissim nulla, id pulvinar ipsum. Duis dapibus, quam sit amet mattis ultricies, purus risus varius massa, vitae mollis orci turpis at nulla. Proin in malesuada diam. Duis laoreet urna id arcu pulvinar, ac consequat odio sodales. Donec sit amet feugiat risus, sit amet accumsan odio. Fusce vel dolor eget leo elementum gravida a a leo. Phasellus erat arcu, maximus quis neque sit amet, condimentum viverra nunc."
+        "value": "When St. Anthony opened its basketball season with a host tournament on Nov. 17, it already was under investigation by TAPPS for enrolling Bassey and the five new international players who arrived after him — Chaput, Ndim, Nigerians Franklin Agunanne and Obi Prosper, and Canadian Jordan Persad."
       },
       {
         "type": "text",
-        "value": "Aenean ornare felis in viverra vulputate. Integer imperdiet neque id aliquet cursus. Curabitur suscipit, purus quis lacinia dapibus, mi purus pulvinar ante, id venenatis urna odio tincidunt lorem. Praesent faucibus risus eget fringilla dapibus. Donec nibh neque, tincidunt quis orci quis, aliquet bibendum quam. Praesent erat mauris, hendrerit quis convallis vel, accumsan ut felis. Nunc nec lectus eget risus imperdiet malesuada. Sed feugiat erat vel mollis semper. Aliquam erat volutpat. Praesent volutpat ullamcorper justo, sit amet pharetra nulla volutpat ut."
-      },
-      {
-        "type": "pullquote",
-        "value": {
-          "quote": "Who will talk to these children in the rich neighborhoods about discrimination?"
-        }
+        "value": "Earlier that day, St. Anthony Principal Rene Escobedo said in a statement that “two ineligible students sponsored by a charitable organization for tuition, room and board have been viewed by TAPPS as inducement through the school despite clear evidence to the contrary.”"
       },
       {
         "type": "text",
-        "value": "Sed sit amet purus eu velit placerat suscipit ac cursus leo. Suspendisse non tincidunt magna. Sed mauris dolor, consequat molestie dui in, lacinia vulputate mauris. Fusce bibendum dui et lectus vehicula consequat. In hac habitasse platea dictumst. Mauris vulputate id metus eget efficitur. Nunc ac posuere quam. Fusce vulputate egestas iaculis. Nulla in eros consequat, dapibus ipsum eu, ultricies sapien."
-      },
-      {
-        "type": "text",
-        "value": "Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras a leo ultricies, sodales nunc at, egestas lacus. Aenean placerat turpis egestas fringilla cursus. In dignissim molestie massa, ut semper turpis. Donec tincidunt leo dolor. Fusce varius neque tristique, maximus augue eget, suscipit nibh. Proin sed elit eros. Proin feugiat purus justo, vel maximus eros consectetur eu. Sed mattis nibh sagittis, condimentum quam vel, blandit arcu."
+        "value": "Escobedo later identified those students as Bassey and Chaput and said both lived in dorms on the campus of Incarnate Word High School, which also is managed by the university. Escobedo said Persad, a freshman, was ruled ineligible by TAPPS because he previously competed for a junior national team."
       },
       {
         "type": "photo",
         "value": {
-          "source": "books.jpeg",
-          "caption": "A generic caption to test what happens when captions are very long in this template.",
-          "cutline": "Kia Farhang / Stock Photos R Us",
+          "source": "chaput.jpg",
+          "caption": "Sam Chaput (33) from St. Anthony Catholic High School joins other players from the \"Yes II Success\" basketball team to play in a tournament on April 14, 2017. The team consisted of players from St. Anthony's Catholic High School.",
+          "cutline": "Kin Man Hui / San Antonio Express-News",
+          "type": "small-left"
+        }
+      },
+      {
+        "type": "text",
+        "value": "Calderon said Agunanne began the school year at St. Anthony. A 6-foot-9 junior forward, he later transferred to La Lumiere School in Indiana, an independent that plays schools around the country."
+      },
+      {
+        "type": "text",
+        "value": "Agunanne and another one of Beucler’s sons, Grant Beucler, a junior guard for La Lumiere, helped the team end the season this year by winning the title at the DICK’s Sporting Goods High School Nationals."
+      },
+      {
+        "type": "text",
+        "value": "Less than a week before leaving TAPPS for the Texas Christian Athletic League, St. Anthony fired basketball coach Jeff Merritt for inserting Bassey into a Nov. 29 home game even though he was ineligible. Merritt was in his first season with the Yellow Jackets after previously serving as an assistant coach at La Lumiere."
+      },
+      {
+        "type": "text",
+        "value": "Jurenovich described the league switch as unrelated to the basketball team. He said TAPPS had denied repeated St. Anthony requests to compete in a lower classification because it had a smaller enrollment than its counterparts and struggled to compete in multiple sports."
+      },
+      {
+        "type": "text",
+        "value": "“Never had request to play down,” TAPPS Executive Director Bryan Bunselmeyer said in a text message."
+      },
+      {
+        "type": "text",
+        "value": "St. Anthony played up after leaving TAPPS, which had placed the school in a division that included local schools Central Catholic and Antonian Prep, as well as St. Joseph Academy in Brownsville."
+      },
+      {
+        "type": "text",
+        "value": "With its foreign players unleashed in the Texas Christian Athletic League, St. Anthony played a regional and national schedule last season, competing against some of the country’s top preparatory programs and players at showcases in Florida, Kentucky, Massachusetts, New York and South Dakota."
+      },
+      {
+        "type": "text",
+        "value": "Former interim coach Casey Barksdale, who replaced Merritt after he was fired, said St. Anthony was invited to those events and received stipends to help cover travel expenses because of Bassey."
+      },
+      {
+        "type": "text",
+        "value": "Athlos Academy, the local public charter school, also is a member with St. Anthony in TCAL’s 4A division, a special division established for basketball powers. Auriantal’s brother, Ralph Auriantal, is the assistant basketball coach at Athlos."
+      },
+      {
+        "type": "photo",
+        "value": {
+          "source": "barksdale.jpg",
+          "caption": "St. Anthony head coach Casey Barksdale huddles with the team during the game against Southwest Christian held Saturday Jan. 21, 2017 at Athlos Leadership Academy.",
+          "cutline": "Edward A. Ornelas / San Antonio Express-News",
           "type": "full"
         }
+      },
+      {
+        "type": "text",
+        "value": "Other schools in the division include Southwest Christian, two Houston schools — Chris Walker Academy and Pro-Vision School — and Life Preparatory Academy in Wichita, Kansas."
+      },
+      {
+        "type": "text",
+        "value": "St. Anthony’s international players all took the court in February against Southwest Christian, which according to head coach Charles Baker is barred from competing against schools in the Arkansas Activities Association, the state’s main prep league."
+      },
+      {
+        "type": "text",
+        "value": "Baker said more than half of the 12 players on the Lions’ roster are international. He also said nine of his players are Division I college prospects."
+      },
+      {
+        "type": "text",
+        "value": "Southwest Christian is excluded from the Arkansas Activities Association because it has boarding students, association executive director Joey Walters said."
       }
     ],
     "4": [
       {
-        "type": "text",
-        "value": "Sed vitae fringilla nunc, non dictum quam. Cras ornare vestibulum velit sit amet aliquam. Praesent mauris libero, pretium quis sodales sed, cursus ac magna. In ullamcorper dolor ac lectus sodales faucibus. Sed sed augue sit amet velit vestibulum tempus id nec ipsum. Aliquam a sagittis mauris. Cras interdum, tortor quis scelerisque elementum, odio ipsum semper ex, vitae tincidunt purus lectus sit amet sapien. Fusce sagittis maximus metus, tristique commodo ligula sollicitudin nec. Donec quis quam et sem maximus cursus eget a odio. Sed at augue nec arcu hendrerit varius. In interdum est eu mi finibus, non ullamcorper felis pretium. Quisque feugiat orci in porta mollis."
+        "type": "subhead",
+        "value": "Custody dispute over Bassey"
       },
       {
         "type": "text",
-        "value": "Nam in arcu nec sapien commodo tincidunt. Phasellus lobortis nisi id turpis vestibulum porttitor. Ut iaculis, purus non hendrerit iaculis, erat ante lobortis nulla, in cursus purus ligula in nisl. Curabitur fringilla elit ac magna iaculis ullamcorper. Cras dolor nunc, ultrices at fermentum eget, volutpat non enim. Vestibulum massa orci, suscipit vitae tortor vitae, condimentum bibendum velit. Donec ultricies tellus vitae enim eleifend fringilla. Vestibulum feugiat quam ut lectus auctor auctor. Cras in bibendum dui. Maecenas in dignissim nulla, id pulvinar ipsum. Duis dapibus, quam sit amet mattis ultricies, purus risus varius massa, vitae mollis orci turpis at nulla. Proin in malesuada diam. Duis laoreet urna id arcu pulvinar, ac consequat odio sodales. Donec sit amet feugiat risus, sit amet accumsan odio. Fusce vel dolor eget leo elementum gravida a a leo. Phasellus erat arcu, maximus quis neque sit amet, condimentum viverra nunc."
+        "value": "With Bassey’s growing reputation as a future star — he averaged about 22 points, 17 rebounds and six blocked shots per game this past season before sitting the last month with an injury — Auriantal followed through with the plan stated by his nonprofit to gain custody of him."
       },
       {
-        "type": "photo",
+        "type": "text",
+        "value": "Last December, Auriantal and his wife, Nathalie Romao, petitioned Bexar County District Court to become Bassey’s legal guardians. According to the petition, Auriantal and Romao had “actual care, control and possession” of Bassey for at least six months."
+      },
+      {
+        "type": "text",
+        "value": "It also stated that the couple expected to enter in an agreement with Bassey’s father in Nigeria, Akpan Ebong Bassey."
+      },
+      {
+        "type": "text",
+        "value": "A waiver of service notarized in Nigeria, and bearing a signature, address and two phone numbers for Bassey’s father, was filed in court Jan. 11."
+      },
+      {
+        "type": "text",
+        "value": "But on March 16, an objection was filed by a Nigerian attorney claiming to represent Bassey’s father. The letter of objection states Akpan Bassey is illiterate and signed the waiver of service under false pretenses. It also says Bassey’s father did not want to enter into a guardianship agreement with Auriantal and Romao."
+      },
+      {
+        "type": "text",
+        "value": "Filed with the objection was a power of attorney document, dated Feb. 5, 2016, stating Bassey’s father granted management rights for his son to John Faniran, who runs basketball tournaments in Nigeria and said he helped Bassey get a scholarship at a Nigerian private school for the two years before he came to San Antonio."
+      },
+      {
+        "type": "text",
+        "value": "Faniran said he reached an agreement with Auriantal to find an American school for Bassey and his son, B.J. Faniran, who also enrolled at St. Anthony in 2015-16, was a senior this year and has played basketball and football at the school."
+      },
+      {
+        "type": "text",
+        "value": "B.J. Faniran also has been featured in Yes II Success social media posts, one of which says he received a scholarship offer from the Incarnate Word football program. John Faniran confirmed his son received an offer but said it was pulled before national signing day in February."
+      },
+      {
+        "type": "text",
+        "value": "On March 31, Bexar County Judge Antonia Artega granted Auriantal and his wife custody of Bassey. Bassey’s father is appealing the decision."
+      },
+      {
+        "type": "text",
+        "value": "When reached by phone on March 7, a man who answered one of the Nigerian numbers listed for Bassey’s father said, “Someone take my son Charles. I want to come see him. He lost his mother ... I’m still worried.”"
+      },
+      {
+        "type": "text",
+        "value": "Unstated in the custody dispute is the money Bassey and his agent stand to earn if he becomes a high NBA draft pick. Top players in recent drafts have signed rookie contracts for over $20 million."
+      },
+      {
+        "type": "pullquote",
         "value": {
-          "source": "pigeons.jpeg",
-          "caption": "A generic caption to test what happens when captions are very long in this template.",
-          "cutline": "Kia Farhang / Stock Photos R Us",
-          "type": "full"
+          "quote": "Someone take my son Charles. I want to come see him. He lost his mother ... I’m still worried."
         }
+      },
+      {
+        "type": "text",
+        "value": "As a high school player in the U.S., Bassey would have to play at least one year in college to qualify for the NBA draft. Foreign stars who play outside the U.S. can enter the draft straight out of high school. In 2016, Thon Maker, a 7-foot-1 Sudanese forward who played prep basketball in Canada, was the 10th pick in the draft out of high school and signed a rookie contract with the Milwaukee Bucks estimated to be worth more than $5 million over two years."
+      },
+      {
+        "type": "text",
+        "value": "With his skill set, Bassey could be compared to Ben Simmons, the No. 1 pick in 2016. An Australian 6-foot-10 forward, Simmons played prep basketball at Montverde Academy in Florida. He played one year of college ball at Louisiana State University then entered the NBA draft, becoming the ultimate “one-and-done” college player. Drafted by the Philadelphia 76ers, he signed a rookie contract estimated by Forbes to be worth more than $26 million over four years."
+      },
+      {
+        "type": "text",
+        "value": "Bassey’s presence at St. Anthony already has paid dividends for the school and Yes II Success."
+      },
+      {
+        "type": "text",
+        "value": "In February 2016, Yes II Success signed a $20,000 sponsorship contract with adidas. The deal came a week after St. Anthony signed a term sheet with the apparel maker for an undisclosed amount, according to a copy of the contract. Incarnate Word said in a 2015 release that it had signed a seven-year sponsorship agreement with adidas."
+      },
+      {
+        "type": "text",
+        "value": "Anthony Coleman, an assistant men’s basketball coach at Arizona State, was the adidas Sports Marketing representative named on the agreements with St. Anthony and Yes II Success. Coleman confirmed he put the deals together, but was not involved in the agreement with Incarnate Word. He said he reached out to St. Anthony because it had an up-and-coming program."
+      },
+      {
+        "type": "text",
+        "value": "When asked if Bassey was a factor in seeking the sponsorship agreements, Coleman said, “I would assume so. He’s top five in the country.”"
       }
     ],
     "5": [
       {
-        "type": "text",
-        "value": "Sed vitae fringilla nunc, non dictum quam. Cras ornare vestibulum velit sit amet aliquam. Praesent mauris libero, pretium quis sodales sed, cursus ac magna. In ullamcorper dolor ac lectus sodales faucibus. Sed sed augue sit amet velit vestibulum tempus id nec ipsum. Aliquam a sagittis mauris. Cras interdum, tortor quis scelerisque elementum, odio ipsum semper ex, vitae tincidunt purus lectus sit amet sapien. Fusce sagittis maximus metus, tristique commodo ligula sollicitudin nec. Donec quis quam et sem maximus cursus eget a odio. Sed at augue nec arcu hendrerit varius. In interdum est eu mi finibus, non ullamcorper felis pretium. Quisque feugiat orci in porta mollis."
+        "type": "subhead",
+        "value": "Tourney MVP"
       },
       {
         "type": "text",
-        "value": "Nam in arcu nec sapien commodo tincidunt. Phasellus lobortis nisi id turpis vestibulum porttitor. Ut iaculis, purus non hendrerit iaculis, erat ante lobortis nulla, in cursus purus ligula in nisl. Curabitur fringilla elit ac magna iaculis ullamcorper. Cras dolor nunc, ultrices at fermentum eget, volutpat non enim. Vestibulum massa orci, suscipit vitae tortor vitae, condimentum bibendum velit. Donec ultricies tellus vitae enim eleifend fringilla. Vestibulum feugiat quam ut lectus auctor auctor. Cras in bibendum dui. Maecenas in dignissim nulla, id pulvinar ipsum. Duis dapibus, quam sit amet mattis ultricies, purus risus varius massa, vitae mollis orci turpis at nulla. Proin in malesuada diam. Duis laoreet urna id arcu pulvinar, ac consequat odio sodales. Donec sit amet feugiat risus, sit amet accumsan odio. Fusce vel dolor eget leo elementum gravida a a leo. Phasellus erat arcu, maximus quis neque sit amet, condimentum viverra nunc."
+        "value": "Bassey, after missing the final month of St. Anthony’s season, has continued to showcase his talent in San Antonio and beyond. He played in the Under Classman All American Game on March 26 in Georgia."
+      },
+      {
+        "type": "text",
+        "value": "According to a Yes II Success Twitter post, he was named most valuable player after racking up 35 points, 20 rebounds and six blocked shots for the East team."
+      },
+      {
+        "type": "text",
+        "value": "More events await Bassey and the Yes II Success team on summer AAU circuits, which is prime recruiting ground for college coaches. Kentucky coach John Calipari was reportedly on hand to watch Bassey play in the first adidas “Gauntlet Series” event last month in Dallas."
+      },
+      {
+        "type": "text",
+        "value": "“They all want Charles,” Calderon said. “Everybody wants Charles.”"
+      },
+      {
+        "type": "text",
+        "value": "Bassey hasn’t received a scholarship offer from Incarnate Word. Jurenovich, the Incarnate Word vice president, said it would be unrealistic to expect a player of Bassey’s caliber to end up with the Cardinals."
       }
     ]
   }
