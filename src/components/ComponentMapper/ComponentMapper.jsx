@@ -48,7 +48,7 @@ export default{
 
 	related: (object: Object, key: number) => <RelatedContent headline={object.value.headline} link={object.value.link} key={key} />,
 
-	iframe: (object: Object, key: number) => <ResponsiveiFrame src={object.value.source}/>,
+	iframe: (object: Object, key: number) => <ResponsiveiFrame src={object.value.source} key={key}/>,
 
 	renderComponent: function(object: Object, key: number){
 		return object.type && this[object.type] ? this[object.type](object, key) : null;

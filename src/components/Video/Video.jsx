@@ -25,7 +25,7 @@ class Video extends Component {
 
 		return(
 			<div className='videoContainer' style={containerStyle}>
-				<video src={this.props.src} autoPlay={this.props.autoPlay} muted={this.props.muted} loop={this.props.loop} preload='auto' width='100%'/>		
+				<video src={this.props.src} autoPlay={this.props.autoPlay} muted={this.props.muted} loop={this.props.loop} preload='auto' width='100%'></video>		
 			</div>
 		)
 	}
