@@ -11,7 +11,7 @@ import SmallPhotoDesktopContainer from '../SmallPhotoDesktopContainer/SmallPhoto
 import SmallPhotoDesktopContainerReverse from '../SmallPhotoDesktopContainerReverse/SmallPhotoDesktopContainerReverse';
 import PullQuote from '../PullQuote/PullQuote';
 import RelatedContent from '../RelatedContent/RelatedContent';
-import iFrame from '../iFrame/iFrame';
+import ResponsiveiFrame from '../ResponsiveiFrame/ResponsiveiFrame';
 
 export default{
 	text: (object: Object, key: number) => <Paragraph text={object.value} key={key}/>,
@@ -48,7 +48,7 @@ export default{
 
 	related: (object: Object, key: number) => <RelatedContent headline={object.value.headline} link={object.value.link} key={key} />,
 
-	iframe: (object: Object, key: number) => <iFrame src={object.value.source}/>,
+	iframe: (object: Object, key: number) => <ResponsiveiFrame src={object.value.source}/>,
 
 	renderComponent: function(object: Object, key: number){
 		return object.type && this[object.type] ? this[object.type](object, key) : null;
