@@ -39,13 +39,13 @@
 
 @media (min-width: 1280px){
 	.RelatedContent{
-		margin-left: 14%;
-		width: 25%;
+/*		margin-left: 14%;
+*/		width: 25%;
 	}
 }
 
 @media (min-width: 1366px){
 	.RelatedContent{
-		margin-left: 16%;
+/*		margin-left: 16%;*/
 	}
 }
