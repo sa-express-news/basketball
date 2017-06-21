@@ -1,7 +1,7 @@
 .Headline{
-	color: #000;
 	font-size: 4vh;
 	font-weight: bold;
+	margin-bottom: 0;
 }
 
 @media (min-width: 1024px){
