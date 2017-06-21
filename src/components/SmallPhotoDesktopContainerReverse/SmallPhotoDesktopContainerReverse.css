@@ -1,0 +1,22 @@
+@media only screen and (min-width: 768px) and (max-width: 1023px) {
+    .SmallPhotoDesktopContainerReverse {
+        margin: 0 auto;
+        width: 90%;
+    }
+}
+
+@media only screen and (min-width: 1024px) {
+    .SmallPhotoDesktopContainerReverse {
+        align-items: flex-end;
+        display: flex;
+        flex-direction: row-reverse;
+        margin: 4vh 0 4vh 22vh;
+        width: 50%;
+    }
+    .SmallPhotoDesktopContainerReverse .PhotoInfo {
+        padding-left: 2vh;
+    }
+    .SmallPhotoDesktopContainerReverse .PhotoInfo p {
+        margin-bottom: 0;
+    }
+}
