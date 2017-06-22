@@ -40,7 +40,7 @@ export default{
 			return null
 		};
 	},
-
+	
 	photos: (object: Object, key: number) => <Photos photos={object.value} key={key}/>,
 
 	loadPhoto: function(path: string){
