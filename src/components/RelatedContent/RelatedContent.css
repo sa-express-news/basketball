@@ -48,3 +48,9 @@
         /*      margin-left: 16%;*/
     }
 }
+
+@media (min-width: 1440px) {
+    .RelatedContent {
+        margin-left: 9%;
+    }
+}

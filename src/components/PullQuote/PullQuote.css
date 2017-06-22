@@ -4,7 +4,7 @@
     font-weight: bold;
 }
 
-@media only screen and (max-width: 767px) {
+@media (max-width: 767px) {
     .PullQuote {
         width: 75%;
     }
@@ -23,17 +23,23 @@
     }
 }
 
-@media only screen and (min-width: 1024px) {
+@media (min-width: 1024px) {
     .PullQuoteContainer {
         width: 35%;
     }
-    .PullQuote{
+    .PullQuote {
         margin-left: 30%;
     }
 }
 
-@media (min-width: 1028px){
-    .PullQuote{
+@media (min-width: 1028px) {
+    .PullQuote {
         margin-left: 35%;
+    }
+}
+
+@media (min-width: 1440px) {
+    .PullQuote {
+        margin-left: 26%;
     }
 }
