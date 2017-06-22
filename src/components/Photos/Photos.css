@@ -2,6 +2,10 @@
     margin-bottom: 0;
 }
 
-.Photos .PhotoInfo {
+.Photos .FullPhotoContainer:not(:first-of-type) {
+    margin-top: 0;
+}
+
+.Photos .FullPhotoContainer:not(:last-of-type) .PhotoInfo {
     display: none;
 }

@@ -17,6 +17,8 @@ import ResponsiveiFrame from '../ResponsiveiFrame/ResponsiveiFrame';
 export default{
 	text: (object: Object, key: number) => <Paragraph text={object.value} key={key}/>,
 
+	credit: (object: Object, key: number) => <Paragraph text={object.value} italic={true} key={key}/>,
+
 	sectionheading: (object: Object, key: number) => <SectionHeading text={object.value} key={key}/>,
 
 	photo: function(object: Object, key: number){

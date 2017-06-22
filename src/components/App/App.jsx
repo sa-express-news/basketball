@@ -5,7 +5,6 @@ import React, { Component } from 'react';
 import StoryTopContainer from '../StoryTopContainer/StoryTopContainer';
 import IntroParagraph from '../IntroParagraph/IntroParagraph';
 import Sections from '../Sections/Sections';
-import Video from '../Video/Video';
 
 import Story from '../../story.json';
 import './App.css';
