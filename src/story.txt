@@ -1,8 +1,8 @@
 {top.meta}
-headline: Can a New Generation in the Banlieues Change French Politics?
-subhead: A Muslim city councilor in a stagnant Paris suburb makes the case for modernizing the nation’s Republican values.
-byline: Elisabeth Zerofsky
-date: June 5, 2017
+headline: Ticket to the top
+subhead: How tiny St. Anthony Catholic High School got involved in a questionable recruiting pipeline that included the University of the Incarnate Word, an agent and a booster to land star Nigerian basketball player Charles Bassey, one of the top big men in the country.
+byline: Adam Zuvanich
+date: June 23, 2017
 
 {top.image}
 source: team-banner.jpg
@@ -17,7 +17,7 @@ The Feb. 4 game against Little Rock’s Southwest Christian Academy demonstrated
 
 {.photo}
 source: bassey-in-game-sa.jpg
-caption: St. Anthony's Charles Bassey looks for room around  Southwest Christian's Mladen Armus during their game held Saturday Jan. 21, 2017 at Athlos Leadership Academy.
+caption: St. Anthony's Charles Bassey looks for room around  Southwest Christian's Mladen Armus during their game Saturday, Jan. 21, 2017 at Athlos Leadership Academy.
 cutline: Edward A. Ornelas / San Antonio Express-News
 type: small-left
 {}
@@ -34,8 +34,9 @@ St. Anthony enrolled five more international players last year, sparking an inve
 
 
 {.photo}
+
 source: international-benched.jpg
-caption: Ousmane Ndimi,Charles Bassey,Center, and Obi Prosperme in St. Anthony's Alumni Tournament on Thursday, November 17, 2016. Four players were not able to compete from a ruling from their league.
+caption: Ousmane Ndimi, Charles Bassey and Obi Prosperme in St. Anthony's Alumni Tournament on Thursday, November 17, 2016. Four players were not able to compete due to a ruling from their league.
 cutline: Ronald Cortes / Freelance for Express-News
 type: full
 {}
@@ -59,7 +60,7 @@ caption: St. Anthony's Charles Bassey relaxes in the gym after school.
 cutline: Edward A. Ornelas / San Antonio Express-News
 
 source: in-school-3.jpg
-caption: St. Anthony's Quinton Uribe (from left), Jordan Persad, Sam Chaput, and Charles Bassey take a test during world history class at the school.
+caption: Charles Bassey and his classmates at St. Anthony Catholic High School.
 cutline: Edward A. Ornelas / San Antonio Express-News
 []
 
@@ -109,7 +110,7 @@ Jurenovich, speaking on behalf of St. Anthony, said Auriantal was hired by St. A
 
 {.photo}
 source: auriantal.jpg
-caption: St. Anthony assistant coach Hennssy Auriantal (center) talks with players Charles Bassey (left) and Obi Prosper before the game with Virginia Episcopal School at the Nassau Community College gym in Garden City, NY.
+caption: St. Anthony assistant coach Hennssy Auriantal (center) talks with players Charles Bassey (left) and Obi Prosper before a game in Garden City, NY.
 cutline: Edward A. Ornelas / San Antonio Express-News
 type: small-right
 {}
@@ -146,7 +147,7 @@ Ancira said Beucler “was the (trustee) that was most involved in athletics. He
 
 {.photo}
 source: beucler.jpg
-caption: Stephen Geri, Mike Beucler (sponsors), Elizabeth Tobias (Sr Exec Director Central & South Tx Area American Diabetes Assoc) and Tony Busa (Pres DGD Research) were at the Wurzbach Estates on 9/20/2007 for the American Diabetes Association benefit.
+caption: Mike Beucler (second from left) in a 2007 file photo.
 cutline: Leland A. Outz / Special to the Express-News
 type: small-right
 {}
@@ -176,7 +177,7 @@ Escobedo, who since has transferred to Holy Cross high school, later identified 
 
 {.photo}
 source: chaput.jpg
-caption: Sam Chaput (33) from St. Anthony Catholic High School joins other players from the "Yes II Success" basketball team to play in a tournament on April 14, 2017. The team consisted of players from St. Anthony's Catholic High School.
+caption: Sam Chaput (33) from St. Anthony Catholic High School joins other players from the "Yes II Success" basketball team to play in a tournament on April 14, 2017. The team consisted of St. Anthony players.
 cutline: Kin Man Hui / San Antonio Express-News
 type: small-left
 {}
@@ -230,6 +231,14 @@ A waiver of service notarized in Nigeria, and bearing a signature, address and t
 
 But on March 16, an objection was filed by a Nigerian attorney claiming to represent Bassey’s father. The letter of objection states Akpan Bassey is illiterate and signed the waiver of service under false pretenses. It also says Bassey’s father did not want to enter into a guardianship agreement with Auriantal and Romao.
 
+
+{.photo}
+source: bassey-call.jpg
+caption: St. Anthony's Charles Bassey looks for a call during the game against Southwest Christian held Saturday Jan. 21, 2017 at Athlos Leadership Academy.
+cutline: Edward A. Ornelas / San Antonio Express-News
+type: small-left
+{}
+
 Also filed was a power of attorney document, dated Feb. 5, 2016, stating Bassey’s father granted management rights for his son to John Faniran, who runs basketball tournaments in Nigeria and said he helped Bassey get a scholarship at a Nigerian private school for two years before he came to San Antonio.
 
 Faniran said he reached an agreement with Auriantal to find an American school for Bassey and his son, B.J. Faniran, who also enrolled at St. Anthony in 2015-16, was a senior this year and played basketball and football at the school.
@@ -281,7 +290,7 @@ caption: St. Anthony's Charles Bassey (left) shakes hands with New Park Pizza em
 cutline: Edward A. Ornelas / San Antonio Express-News
 
 source: nyc-group-3.jpg
-caption: Members of the St. Anthony Catholic High School boys basketball team talk during lunch at Bill's Bar & Burger in New York, NY.
+caption: Members of the St. Anthony Catholic High School boys basketball team on a trip to a competition in New York City.
 cutline: Edward A. Ornelas / San Antonio Express-News
 []
 
@@ -292,5 +301,9 @@ More events await Bassey and the Yes II Success team on summer AAU circuits, whi
 “They all want Charles,” Calderon said. “Everybody wants Charles.”
 
 Bassey hasn’t received a scholarship offer from Incarnate Word. Jurenovich, the Incarnate Word vice president, said it would be unrealistic to expect a player of Bassey’s caliber to end up with the Cardinals.
+
+credit: adam.zuvanich@express-news.net
+
+credit: Twitter: @AZuvanich
 
 []
