@@ -9,6 +9,7 @@ import FullPhotoContainer from '../FullPhotoContainer/FullPhotoContainer';
 import SmallPhotoDesktop from '../SmallPhotoDesktop/SmallPhotoDesktop';
 import SmallPhotoDesktopContainer from '../SmallPhotoDesktopContainer/SmallPhotoDesktopContainer';
 import SmallPhotoDesktopContainerReverse from '../SmallPhotoDesktopContainerReverse/SmallPhotoDesktopContainerReverse';
+import Photos from '../Photos/Photos';
 import PullQuote from '../PullQuote/PullQuote';
 import RelatedContent from '../RelatedContent/RelatedContent';
 import ResponsiveiFrame from '../ResponsiveiFrame/ResponsiveiFrame';
@@ -16,7 +17,7 @@ import ResponsiveiFrame from '../ResponsiveiFrame/ResponsiveiFrame';
 export default{
 	text: (object: Object, key: number) => <Paragraph text={object.value} key={key}/>,
 
-	subhead: (object: Object, key: number) => <SectionHeading text={object.value} key={key}/>,
+	sectionheading: (object: Object, key: number) => <SectionHeading text={object.value} key={key}/>,
 
 	photo: function(object: Object, key: number){
 		const photo = object.value;
@@ -39,6 +40,8 @@ export default{
 			return null
 		};
 	},
+
+	photos: (object: Object, key: number) => <Photos photos={object.value} key={key}/>,
 
 	loadPhoto: function(path: string){
 		return require(`../../images/${path}`);
