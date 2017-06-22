@@ -53,13 +53,20 @@ Founded in 1903 by the Oblates of Mary Immaculate as a junior seminary, St. Anth
 
 The private Catholic university and St. Anthony are affiliated with the Sisters of Charity of the Incarnate Word, a religious order within the archdiocese. The religious order and archdiocese would not comment on St. Anthony’s recruitment of foreign athletes.
 
+[.photos]
 
-{.photo}
-source: bassey-nadim-chaput.jpg
+source: in-school-1.jpg
 caption: St. Anthony's Sam Chaput, (from left), Charles Bassey, and Ousmane Ndim talk after school.
 cutline: Edward A. Ornelas / San Antonio Express-News
-type: full
-{}
+
+source: in-school-2.jpg
+caption: St. Anthony's Charles Bassey relaxes in the gym after school.
+cutline: Edward A. Ornelas / San Antonio Express-News
+
+source: in-school-3.jpg
+caption: St. Anthony's Quinton Uribe (from left), Jordan Persad, Sam Chaput, and Charles Bassey take a test during world history class at the school.
+cutline: Edward A. Ornelas / San Antonio Express-News
+[]
 
 Incarnate Word, which touts itself as the largest Catholic university in Texas, with an enrollment of nearly 11,000 students at its main and satellite campuses, has heavily promoted athletics — it fielded its first football team in 2009 — as it completes a three-year transition to Division I sports this fall.
 
@@ -95,7 +102,7 @@ He said he models his game after Giannis Antetokounmpo, a 22-year-old, 6-foot-11
 
 [+sections.2]
 
-subhead: Agent gets involved
+sectionheading: Agent gets involved
 
 Bassey’s trail to San Antonio was carved by Hennssy Auriantal, a Canadian from Montreal and former basketball player at the University of Wisconsin who worked as an assistant coach at Jackson State University in Mississippi. 
 
@@ -164,7 +171,7 @@ Jurenovich said Beucler was “instrumental in developing” the annual wild gam
 
 [+sections.3]
 
-subhead: Joining the national ranks
+sectionheading: Joining the national ranks
 
 When St. Anthony opened its basketball season with a host tournament on Nov. 17, it already was under investigation by TAPPS for enrolling Bassey and the five new international players who arrived after him — Chaput, Ndim, Nigerians Franklin Agunanne and Obi Prosper, and Canadian Jordan Persad. 
 
@@ -216,7 +223,7 @@ Southwest Christian is excluded from the Arkansas Activities Association because
 
 [+sections.4]
 
-subhead: Custody dispute over Bassey
+sectionheading: Custody dispute over Bassey
 
 With Bassey’s growing reputation as a future star — he averaged about 22 points, 17 rebounds and six blocked shots per game last season — Hennssy Auriantal followed through with the plan stated by his nonprofit to gain custody of him.
 
@@ -260,13 +267,28 @@ When asked if Bassey was a factor in seeking the sponsorship agreements, Coleman
 
 [+sections.5]
 
-subhead: Tourney MVP
+sectionheading: Tourney MVP
 
 Bassey, after missing the final month of St. Anthony’s season with an injury, has continued to showcase his talent in San Antonio and beyond. He played in the Underclassman All-American Game on March 26 in Georgia and was featured on the event’s internet home page.
 
 According to a Yes II Success Twitter post, he was named most valuable player after racking up 35 points, 20 rebounds and six blocked shots for the East team.
 
 With college coach John Calipari of Kentucky on hand during adidas’ “Gauntlet” series in Dallas in April, Bassey was physically imposing in the post, throwing down dunks and swatting away shots on defense. He also flashed more finesse.
+
+
+[.photos]
+source: nyc-group-1.jpg
+caption: St. Anthony's Obi Prosper (from left), Jude Pereida, (left rear not visible) Jay Ortiz, Sam Chaput and Charles Bassey joke while on their way to a game against Victory Rock Prep at the Nassau Community College gym in Garden City, NY.
+cutline: Edward A. Ornelas / San Antonio Express-News
+
+source: nyc-group-2.jpg
+caption: St. Anthony's Charles Bassey (left) shakes hands with New Park Pizza employee Patrick Touhey after a team dinner at the restaurant in Howard Beach, NY.
+cutline: Edward A. Ornelas / San Antonio Express-News
+
+source: nyc-group-3.jpg
+caption: Members of the St. Anthony Catholic High School boys basketball team talk during lunch at Bill's Bar & Burger in New York, NY.
+cutline: Edward A. Ornelas / San Antonio Express-News
+[]
 
 Bassey made mid-range jumpers, finished with both hands near the rim and found open teammates with passes. He also ran a fast break, grabbing a rebound and dribbling the length of the floor before making an on-the-run bounce pass to a teammate on the perimeter. 
 

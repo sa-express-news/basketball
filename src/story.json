@@ -84,13 +84,24 @@
         "value": "The private Catholic university and St. Anthony are affiliated with the Sisters of Charity of the Incarnate Word, a religious order within the archdiocese. The religious order and archdiocese would not comment on St. Anthony’s recruitment of foreign athletes."
       },
       {
-        "type": "photo",
-        "value": {
-          "source": "bassey-nadim-chaput.jpg",
-          "caption": "St. Anthony's Sam Chaput, (from left), Charles Bassey, and Ousmane Ndim talk after school.",
-          "cutline": "Edward A. Ornelas / San Antonio Express-News",
-          "type": "full"
-        }
+        "type": "photos",
+        "value": [
+          {
+            "source": "in-school-1.jpg",
+            "caption": "St. Anthony's Sam Chaput, (from left), Charles Bassey, and Ousmane Ndim talk after school.",
+            "cutline": "Edward A. Ornelas / San Antonio Express-News"
+          },
+          {
+            "source": "in-school-2.jpg",
+            "caption": "St. Anthony's Charles Bassey relaxes in the gym after school.",
+            "cutline": "Edward A. Ornelas / San Antonio Express-News"
+          },
+          {
+            "source": "in-school-3.jpg",
+            "caption": "St. Anthony's Quinton Uribe (from left), Jordan Persad, Sam Chaput, and Charles Bassey take a test during world history class at the school.",
+            "cutline": "Edward A. Ornelas / San Antonio Express-News"
+          }
+        ]
       },
       {
         "type": "text",
@@ -153,7 +164,7 @@
     ],
     "2": [
       {
-        "type": "subhead",
+        "type": "sectionheading",
         "value": "Agent gets involved"
       },
       {
@@ -269,7 +280,7 @@
     ],
     "3": [
       {
-        "type": "subhead",
+        "type": "sectionheading",
         "value": "Joining the national ranks"
       },
       {
@@ -357,7 +368,7 @@
     ],
     "4": [
       {
-        "type": "subhead",
+        "type": "sectionheading",
         "value": "Custody dispute over Bassey"
       },
       {
@@ -437,7 +448,7 @@
     ],
     "5": [
       {
-        "type": "subhead",
+        "type": "sectionheading",
         "value": "Tourney MVP"
       },
       {
@@ -451,6 +462,26 @@
       {
         "type": "text",
         "value": "With college coach John Calipari of Kentucky on hand during adidas’ “Gauntlet” series in Dallas in April, Bassey was physically imposing in the post, throwing down dunks and swatting away shots on defense. He also flashed more finesse."
+      },
+      {
+        "type": "photos",
+        "value": [
+          {
+            "source": "nyc-group-1.jpg",
+            "caption": "St. Anthony's Obi Prosper (from left), Jude Pereida, (left rear not visible) Jay Ortiz, Sam Chaput and Charles Bassey joke while on their way to a game against Victory Rock Prep at the Nassau Community College gym in Garden City, NY.",
+            "cutline": "Edward A. Ornelas / San Antonio Express-News"
+          },
+          {
+            "source": "nyc-group-2.jpg",
+            "caption": "St. Anthony's Charles Bassey (left) shakes hands with New Park Pizza employee Patrick Touhey after a team dinner at the restaurant in Howard Beach, NY.",
+            "cutline": "Edward A. Ornelas / San Antonio Express-News"
+          },
+          {
+            "source": "nyc-group-3.jpg",
+            "caption": "Members of the St. Anthony Catholic High School boys basketball team talk during lunch at Bill's Bar & Burger in New York, NY.",
+            "cutline": "Edward A. Ornelas / San Antonio Express-News"
+          }
+        ]
       },
       {
         "type": "text",
