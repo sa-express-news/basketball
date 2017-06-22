@@ -1,0 +1,7 @@
+.Photos .FullPhotoContainer:not(:last-of-type) {
+    margin-bottom: 0;
+}
+
+.Photos .PhotoInfo {
+    display: none;
+}
