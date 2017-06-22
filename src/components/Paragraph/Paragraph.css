@@ -25,16 +25,11 @@
     }
 }
 
-.dropCap {
-    font-size: 8vh;
-    margin-right: 3vh;
-    display: block;
-    font-weight: bold;
+.Paragraph .dropCap {
     float: left;
-}
-
-@media (min-width: 768px) {
-    .dropCap {
-        font-size: 7vh;
-    }
+    font-size: 8vh;
+    line-height: 60px;
+    padding-top: 1vh;
+    padding-right: 0;
+    padding-left: 3px;
 }
