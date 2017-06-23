@@ -5,10 +5,12 @@
   "s3Bucket": "http://projects.expressnews.com.s3-website-us-east-1.amazonaws.com/basketball",
   "devDependencies": {
     "autoprefixer": "6.7.2",
+    "babel-cli": "^6.24.1",
     "babel-core": "6.22.1",
     "babel-eslint": "7.1.1",
     "babel-jest": "18.0.0",
     "babel-loader": "6.2.10",
+    "babel-preset-flow": "^6.23.0",
     "babel-preset-react-app": "^2.2.0",
     "babel-runtime": "^6.20.0",
     "case-sensitive-paths-webpack-plugin": "1.1.4",
@@ -49,7 +51,7 @@
   },
   "dependencies": {
     "empty": "^0.10.1",
-    "flow-bin": "^0.47.0",
+    "flow-bin": "^0.48.0",
     "isomorphic-fetch": "^2.2.1",
     "lodash": "^4.17.4",
     "react": "^15.5.4",
