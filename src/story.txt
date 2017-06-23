@@ -16,9 +16,9 @@ In a blur, Bassey swooped to the rim, caught his own pass off the glass and slam
 The Feb. 4 game against Little Rock’s Southwest Christian Academy demonstrated why the Nigerian sophomore, nicknamed “Big Ticket,” is one of the best big men in high school basketball and a top prospect already in the sights of college powers Kansas, Arizona, Washington and Texas A&M — schools Bassey said have offered him a scholarship.
 
 {.photo}
-source: bassey-in-game-sa.jpg
-caption: St. Anthony's Charles Bassey looks for room around  Southwest Christian's Mladen Armus during their game Saturday, Jan. 21, 2017 at Athlos Leadership Academy.
-cutline: Edward A. Ornelas / San Antonio Express-News
+source: dunk.jpg
+caption: Jackets big man Charles Bassey throws down a slam as Central Catholic plays St. Anthony in boys basketball at Greehey Arena on January 21, 2016.
+cutline: Tom Reel / San Antonio Express-News
 type: small-left
 {}
 
@@ -34,9 +34,8 @@ St. Anthony enrolled five more international players last year, sparking an inve
 
 
 {.photo}
-
 source: international-benched.jpg
-caption: Ousmane Ndimi, Charles Bassey and Obi Prosperme in St. Anthony's Alumni Tournament on Thursday, November 17, 2016. Four players were not able to compete due to a ruling from their league.
+caption: Ousmane Ndimi,Charles Bassey,Center, and Obi Prosperme in St. Anthony's Alumni Tournament on Thursday, November 17, 2016. Four players were not able to compete from a ruling from their league.
 cutline: Ronald Cortes / Freelance for Express-News
 type: full
 {}
@@ -44,6 +43,11 @@ type: full
 St. Anthony then competed in national showcase tournaments last season and, through its new affiliation, played against other basketball powers from Texas and other states. The schools play as independents or are in non-traditional leagues that, like TCAL, permit financial inducements that normally would exclude the teams from traditional high school leagues.
 
 Acquiring a good education in the U.S. is part of the pitch to promising foreign athletes. But some players brought to San Antonio have drifted from school to school to make their mark. St. Anthony was the third high school in as many years for two of Bassey’s teammates — star guard Sam Chaput from Canada and 7-foot center Ousmane Ndim from Senegal.
+
+{.related}
+headline: Anatomy of a road trip - St. Anthony on the road
+link: http://www.expressnews.com/sports/article/Anatomy-of-a-road-trip-11240802.php?t=89c0f10750
+{}
 
 Founded in 1903 by the Oblates of Mary Immaculate as a junior seminary, St. Anthony has been managed by the University of the Incarnate Word since 1995, when it became a high school for boys. It opened enrollment to girls starting in 2003.
 
@@ -89,6 +93,11 @@ She said athletes may receive tuition, room and board before enrolling in colleg
 His talent is undeniable. In highlight videos, Bassey displays an array of moves, dunking from multiple angles, blocking shots above the rim, dribbling past defenders and hitting outside jumpers.
 
 Interviewed last year by the website nbadraft.net, which projects future draft picks, Bassey was asked to describe his game. 
+
+{.related}
+headline: The Grind Session tall on talent, short on organization
+link: http://www.expressnews.com/sports/article/The-Grind-Session-tall-on-talent-short-on-11240804.php?t=289b5ba77a
+{}
 
 “I play as a one, two, three, four, or five. I play everywhere. I can post, I can shoot, I can handle the ball,” Bassey said.
 

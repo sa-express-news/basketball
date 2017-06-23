@@ -25,9 +25,9 @@
       {
         "type": "photo",
         "value": {
-          "source": "bassey-in-game-sa.jpg",
-          "caption": "St. Anthony's Charles Bassey looks for room around  Southwest Christian's Mladen Armus during their game Saturday, Jan. 21, 2017 at Athlos Leadership Academy.",
-          "cutline": "Edward A. Ornelas / San Antonio Express-News",
+          "source": "dunk.jpg",
+          "caption": "Jackets big man Charles Bassey throws down a slam as Central Catholic plays St. Anthony in boys basketball at Greehey Arena on January 21, 2016.",
+          "cutline": "Tom Reel / San Antonio Express-News",
           "type": "small-left"
         }
       },
@@ -55,7 +55,7 @@
         "type": "photo",
         "value": {
           "source": "international-benched.jpg",
-          "caption": "Ousmane Ndimi, Charles Bassey and Obi Prosperme in St. Anthony's Alumni Tournament on Thursday, November 17, 2016. Four players were not able to compete due to a ruling from their league.",
+          "caption": "Ousmane Ndimi,Charles Bassey,Center, and Obi Prosperme in St. Anthony's Alumni Tournament on Thursday, November 17, 2016. Four players were not able to compete from a ruling from their league.",
           "cutline": "Ronald Cortes / Freelance for Express-News",
           "type": "full"
         }
@@ -67,6 +67,13 @@
       {
         "type": "text",
         "value": "Acquiring a good education in the U.S. is part of the pitch to promising foreign athletes. But some players brought to San Antonio have drifted from school to school to make their mark. St. Anthony was the third high school in as many years for two of Bassey’s teammates — star guard Sam Chaput from Canada and 7-foot center Ousmane Ndim from Senegal."
+      },
+      {
+        "type": "related",
+        "value": {
+          "headline": "Anatomy of a road trip - St. Anthony on the road",
+          "link": "http://www.expressnews.com/sports/article/Anatomy-of-a-road-trip-11240802.php?t=89c0f10750"
+        }
       },
       {
         "type": "text",
@@ -145,6 +152,13 @@
       {
         "type": "text",
         "value": "Interviewed last year by the website nbadraft.net, which projects future draft picks, Bassey was asked to describe his game."
+      },
+      {
+        "type": "related",
+        "value": {
+          "headline": "The Grind Session tall on talent, short on organization",
+          "link": "http://www.expressnews.com/sports/article/The-Grind-Session-tall-on-talent-short-on-11240804.php?t=289b5ba77a"
+        }
       },
       {
         "type": "text",

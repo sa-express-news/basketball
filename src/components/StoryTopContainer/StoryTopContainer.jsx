@@ -4,6 +4,7 @@ import React, {Component} from 'react';
 
 import StoryTop from '../StoryTop/StoryTop';
 import StoryTopDesktop from '../StoryTopDesktop/StoryTopDesktop';
+import ExpressNewsLogo from '../Icons/ExpressNewsLogo/ExpressNewsLogo';
 
 class StoryTopContainer extends Component{
 	props: {
@@ -30,6 +31,7 @@ class StoryTopContainer extends Component{
       const isDesktopScreen = this.state.isDesktopScreen;
   		return(
         <div>
+        <ExpressNewsLogo />
   			{isDesktopScreen && <StoryTopDesktop data={this.props.data} />}
         {!isDesktopScreen && <StoryTop data={this.props.data} />}
         </div>

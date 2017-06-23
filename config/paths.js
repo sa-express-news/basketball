@@ -58,7 +58,7 @@ function getPublicUrl(appPackageJson) {
 function getServedPath(appPackageJson) {
   var publicUrl = getPublicUrl(appPackageJson);
   var servedUrl = envPublicUrl || (
-    publicUrl ? url.parse(publicUrl).pathname : '/'
+    publicUrl ? publicUrl : '/'
   );
   return ensureSlash(servedUrl, true);
 }
