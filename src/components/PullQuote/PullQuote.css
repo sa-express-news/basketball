@@ -27,6 +27,7 @@
 
 @media (min-width: 1024px) {
     .PullQuoteContainer {
+        clear: both;
         width: 35%;
     }
     .PullQuote {

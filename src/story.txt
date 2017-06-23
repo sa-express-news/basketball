@@ -5,8 +5,8 @@ byline: Adam Zuvanich
 date: June 23, 2017
 
 {top.image}
-source: team-banner.jpg
-caption: St. Anthony's Quinton Uribe (center) and teammates leave the locker room before their game against Texas Christian School.
+source: bassey-school.jpg
+caption: St. Anthony's Charles Bassey leaves the school.
 cutline: Edward A. Ornelas / San Antonio Express-News
 
 [+sections.1]
@@ -35,7 +35,7 @@ St. Anthony enrolled five more international players last year, sparking an inve
 
 {.photo}
 source: international-benched.jpg
-caption: Ousmane Ndimi,Charles Bassey,Center, and Obi Prosperme in St. Anthony's Alumni Tournament on Thursday, November 17, 2016. Four players were not able to compete from a ruling from their league.
+caption: Ousmane Ndim, Charles Bassey and Obi Prosper in St. Anthony's Alumni Tournament on Thursday, November 17, 2016. Four players were not able to compete from a ruling from their league.
 cutline: Ronald Cortes / Freelance for Express-News
 type: full
 {}
@@ -43,11 +43,6 @@ type: full
 St. Anthony then competed in national showcase tournaments last season and, through its new affiliation, played against other basketball powers from Texas and other states. The schools play as independents or are in non-traditional leagues that, like TCAL, permit financial inducements that normally would exclude the teams from traditional high school leagues.
 
 Acquiring a good education in the U.S. is part of the pitch to promising foreign athletes. But some players brought to San Antonio have drifted from school to school to make their mark. St. Anthony was the third high school in as many years for two of Bassey’s teammates — star guard Sam Chaput from Canada and 7-foot center Ousmane Ndim from Senegal.
-
-{.related}
-headline: Anatomy of a road trip - St. Anthony on the road
-link: http://www.expressnews.com/sports/article/Anatomy-of-a-road-trip-11240802.php?t=89c0f10750
-{}
 
 Founded in 1903 by the Oblates of Mary Immaculate as a junior seminary, St. Anthony has been managed by the University of the Incarnate Word since 1995, when it became a high school for boys. It opened enrollment to girls starting in 2003.
 
@@ -93,11 +88,6 @@ She said athletes may receive tuition, room and board before enrolling in colleg
 His talent is undeniable. In highlight videos, Bassey displays an array of moves, dunking from multiple angles, blocking shots above the rim, dribbling past defenders and hitting outside jumpers.
 
 Interviewed last year by the website nbadraft.net, which projects future draft picks, Bassey was asked to describe his game. 
-
-{.related}
-headline: The Grind Session tall on talent, short on organization
-link: http://www.expressnews.com/sports/article/The-Grind-Session-tall-on-talent-short-on-11240804.php?t=289b5ba77a
-{}
 
 “I play as a one, two, three, four, or five. I play everywhere. I can post, I can shoot, I can handle the ball,” Bassey said.
 
@@ -155,9 +145,9 @@ A source close to the Incarnate Word administration, who asked not to be named, 
 Ancira said Beucler “was the (trustee) that was most involved in athletics. He took a real interest.”
 
 {.photo}
-source: beucler.jpg
-caption: Mike Beucler (second from left) in a 2007 file photo.
-cutline: Leland A. Outz / Special to the Express-News
+source: calderon.jpg
+caption: St. Anthony director of enrollment Alejandro Calderon talks with student Charles Bassey after class.
+cutline: Edward A. Ornelas / San Antonio Express-News
 type: small-right
 {}
 
@@ -185,9 +175,9 @@ Earlier that day, then-St. Anthony Principal Rene Escobedo said in a statement t
 Escobedo, who since has transferred to Holy Cross high school, later identified those students as Bassey and Chaput and said both lived in dorms on the campus of Incarnate Word High School, which also is managed by the university. Escobedo said Persad, a freshman, was ruled ineligible by TAPPS because he previously competed for a junior national team.
 
 {.photo}
-source: chaput.jpg
-caption: Sam Chaput (33) from St. Anthony Catholic High School joins other players from the "Yes II Success" basketball team to play in a tournament on April 14, 2017. The team consisted of St. Anthony players.
-cutline: Kin Man Hui / San Antonio Express-News
+source: bassey-block.jpg
+caption: A hard night on the floor ends for Buttons center Nathan Payet as Jackets big man Charles Bassey rejects his shot in the lane as Central Catholic plays St. Anthony in boys basketball at Greehey Arena on January 21, 2016.
+cutline: Tom Reel / San Antonio Express-News
 type: small-left
 {}
 
@@ -256,7 +246,7 @@ B.J. Faniran also has been featured in Yes II Success social media posts, one of
 
 When reached by phone on March 7, a man who answered one of the Nigerian numbers listed for Bassey’s father said, “Someone take my son Charles. I want to come see him. He lost his mother ... I’m still worried.”
 
-On March 31, Bexar County Judge Antonia Artega granted Auriantal and his wife custody of Bassey. A lawyer hired by Faniran to represent Bassey’s father is appealing the decision.
+On March 31, Bexar County Judge Antonia Arteaga granted Auriantal and his wife custody of Bassey. A lawyer hired by Faniran to represent Bassey’s father is appealing the decision.
 
 Unstated in the custody dispute is the money Bassey and his agent stand to earn if he becomes a high NBA draft pick. Top players in recent drafts have signed rookie contracts for more than $20 million.
 
@@ -289,19 +279,13 @@ According to a Yes II Success Twitter post, he was named most valuable player af
 With college coach John Calipari of Kentucky on hand during adidas’ “Gauntlet” series in Dallas in April, Bassey was physically imposing in the post, throwing down dunks and swatting away shots on defense. He also flashed more finesse.
 
 
-[.photos]
-source: nyc-group-1.jpg
-caption: St. Anthony's Obi Prosper (from left), Jude Pereida, (left rear not visible) Jay Ortiz, Sam Chaput and Charles Bassey joke while on their way to a game against Victory Rock Prep at the Nassau Community College gym in Garden City, NY.
-cutline: Edward A. Ornelas / San Antonio Express-News
 
-source: nyc-group-2.jpg
-caption: St. Anthony's Charles Bassey (left) shakes hands with New Park Pizza employee Patrick Touhey after a team dinner at the restaurant in Howard Beach, NY.
-cutline: Edward A. Ornelas / San Antonio Express-News
-
-source: nyc-group-3.jpg
-caption: Members of the St. Anthony Catholic High School boys basketball team on a trip to a competition in New York City.
-cutline: Edward A. Ornelas / San Antonio Express-News
-[]
+{.photo}
+source: team-tournament.jpg
+caption: Ousmine Ddim (05), Charles Bassy (23) and Sam Chaput (33) of St. Anthony Catholic High School joins other players from the "Yes II Success" basketball team to play in a tournament on April 14, 2017. The team consisted of players from St. Anthony's Catholic High School.
+cutline: Kin Man Hui / San Antonio Express-News
+type: full
+{}
 
 Bassey made mid-range jumpers, finished with both hands near the rim and found open teammates with passes. He also ran a fast break, grabbing a rebound and dribbling the length of the floor before making an on-the-run bounce pass to a teammate on the perimeter. 
 
