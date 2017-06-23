@@ -1,3 +1,5 @@
-.BylineContainer{
-	margin-top: 2em;
+@media (min-width: 1024px) {
+    .BylineContainer {
+        margin-top: 2em;
+    }
 }
